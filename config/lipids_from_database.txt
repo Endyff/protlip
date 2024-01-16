@@ -1,0 +1,693 @@
+NF3	{"input":"XLYMOEINVGRTEX-ARJAWSKDSA-N","sys_name":"(2Z)-4-ethoxy-4-oxobut-2-enoic acid"}
+ITN	{"input":"LVHBHZANLOWSRM-UHFFFAOYSA-N","sys_name":"2-methylenebutanedioic acid"}
+KIV	{"input":"QHKABHOOEWYVLI-UHFFFAOYSA-N","sys_name":"3-methyl-2-oxo-butanoic acid"}
+58X	{"input":"ZHYZQXUYZJNEHD-VQHVLOKHSA-N","sys_name":"3,7-Dimethyl-2E,6-octadienoic acid"}
+8AC	{"input":"UQXNEWQGGVUVQA-UHFFFAOYSA-N","sys_name":"8-aminocaprylic acid"}
+482	{"input":"YRYOXRMDHALAFL-QMMMGPOBSA-N","sys_name":"N-(3-oxo-hexanoyl)-homoserine lactone"}
+16C	{"input":"YDNKGFDKKRUKPY-TURZORIXSA-N","sys_name":"N-(hexadecanoyl)-sphing-4-enine"}
+UNA	{"input":"KMPQYAYAQWNLME-UHFFFAOYSA-N","sys_name":"undecanal"}
+4DS	{"input":"YSCNMFDFYJUPEF-OWOJBTEDSA-N","sys_name":"4,4'-diisothiocyanostilbene-2,2'-disulfonic acid"}
+3RL	{"input":"VLEUZFDZJKSGMX-ONEGZZNKSA-N"}
+DXC	{"input":"KXGVEGMKQFWNSR-LLQZFEROSA-N","sys_name":"3alpha,12alpha-Dihydroxy-5beta-cholan-24-oic Acid"}
+SSN	{"input":"UIUJIQZEACWQSV-UHFFFAOYSA-N","sys_name":"4-oxo-butanoic acid"}
+H9R	{"input":"ODBRNZZJSYPIDI-VJXVFPJBSA-N"}
+J6O	{"input":"OVSQVDMCBVZWGM-DTGCRPNFSA-N"}
+FUA	{"input":"IECPWNUMDGFDKC-MZJAQBGESA-N","sys_name":"(-)-16beta-acetoxy-3alpha,11alpha-dihydroxyfusida-17(20)Z,24-diene-21-oic acid"}
+1CA	{"input":"ZESRJSPZRDMNHY-YFWFAHHUSA-N","sys_name":"21-hydroxypregn-4-ene-3,20-dione"}
+CRT	{"input":"VAZQBTJCYODOSV-RISZBRKMSA-N","sys_name":"(15Z)-1,1'-Dimethoxy-3,4,3',4'-tetradehydro-1,2,1',2'-tetrahydro-psi,psi-carotene"}
+ZK5	{"input":"AAXVEMMRQDVLJB-BULBTXNYSA-N","sys_name":"9alpha-fluoro-11beta,17alpha,21-trihydroxy-pregn-4-ene-3,20-dione"}
+JBU	{"input":"WPAMZTWLKIDIOP-NQXXGFSBSA-N","sys_name":"(4R,5R)-4,5,6-trihydroxy-2-oxohexanoic acid"}
+4IF	{"input":"UWHZIFQPPBDJPM-FPLPWBNLSA-N","sys_name":"11Z-octadecenoic acid"}
+PMV	{"input":"OKZYCXHTTZZYSK-ZCFIWIBFSA-N","sys_name":"3R-methyl-3-hydroxypentanoic acid 5-phosphate"}
+P5M	{"input":"AFOLOMGWVXKIQL-UHFFFAOYSA-O"}
+U38	{"input":"MTKNDAQYHASLID-QXYWQCSFSA-N","sys_name":"3-hydroxyestra-1,3,5(10)-trien-17beta-yl beta-D-glucopyranosiduronic acid"}
+AAE	{"input":"WDJHALXBUFZDSR-UHFFFAOYSA-N","sys_name":"3-oxo-butanoic acid"}
+LP5	{"input":"HEHQDWUWJVPREQ-XQJZMFRCSA-N","sys_name":"2,3-bis-(3R-hydroxy-tetradecanoyl)-alphaD-glucosamine-1-phosphate"}
+GA4	{"input":"RSQSQJNRHICNNH-NFMPGMCNSA-N"}
+EQV	{"input":"JNNGEAWILNVFFD-CDJYTOATSA-N","sys_name":"(1S,4aS,6S,7R,7aS)-1-(beta-D-glucopyranosyloxy)-1,4a,5,6,7,7a-hexahydro-6-hydroxy-7-methyl-cyclopenta[c]pyran-4-carboxylic acid"}
+IRM	{"input":"CNYVJTJLUKKCGM-RGGGOQHISA-N","sys_name":"1,2-Dihydro-psi,psi-caroten-1-ol"}
+MHQ	{"input":"AVSXSVCZWQODGV-DPAQBDIFSA-N","sys_name":"cholest-5,24-dien-3beta-ol"}
+88K	{"input":"PVLHOJXLNBFHDX-XHJPDDKBSA-N","sys_name":"20R,25-Epoxydammarane-3bet3,12beta-diol"}
+POL	{"input":"BDERNNFJNOPAEC-UHFFFAOYSA-N","sys_name":"Propan-1-ol"}
+CC6	{"input":"WCNLFPKXBGWWDS-UHFFFAOYSA-N"}
+FEE	{"input":"MPKIDHIOYNMFES-CLTBVUQJSA-N","sys_name":"N-[(2S,3S,4R)-1-(alpha-D-galactopyranosyloxy)-3,4-dihydroxynonan-2-yl]tetracosanamide"}
+K4G	{"input":"YQFJJDSGBAAUPW-INIZCTEOSA-N","sys_name":"N-(3-oxo-tetradecanoyl)-homoserine lactone"}
+SHF	{"input":"JOOXCMJARBKPKM-UHFFFAOYSA-N","sys_name":"4-oxo-pentanoic acid"}
+4MX	{"input":"SXFKFRRXJUJGSS-UHFFFAOYSA-N","sys_name":"2,4-Dihydroxy-6-pentylbenzoic acid"}
+ABA	{"input":"QWCKQJZIFLGMSD-VKHMYHEASA-N","sys_name":"2S-amino-butanoic acid"}
+E4H	{"input":"NZUJVBSYQXETNF-PQWITYJESA-N"}
+9LR	{"input":"MOYAFQVGZZPNRA-UHFFFAOYSA-N","sys_name":"1-methyl-4-(propan-2-ylidene)cyclohexene p-mentha-1,4(8)-diene"}
+EPD	{"input":"XOZIUKBZLSUILX-GIQCAXHBSA-N"}
+KH1	{"input":"KLZOTDOJMRMLDX-YBBVPDDNSA-N","sys_name":"(5Z,7E)-(1S,3R,20R)-26,27-dimethyl-24a-homo-22-oxa-9,10-seco-5,7,10(19)-cholestatriene-1,3,25-triol"}
+DAO	{"input":"POULHZVOKOAJMA-UHFFFAOYSA-N","sys_name":"dodecanoic acid"}
+VIV	{"input":"GVJHHUAWPYXKBD-IEOSBIPESA-N","sys_name":"(2R)-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydro-2H-chromen-6-ol"}
+HL6	{"input":"ZJFKKPDLNLCPNP-QMMMGPOBSA-N","sys_name":"N-hexanoyl-homoserine lactone"}
+A9H	{"input":"RSWGJHLUYNHPMX-ONCXSQPRSA-N"}
+ZKM	{"input":"CJGVDSGIQZDLDO-PHLJAKBWSA-N","sys_name":"N-hexadecanoyl-1-beta-(3'-sulfo)-glucosyl-sphing-4-enine"}
+F26	{"input":"VJASLAGEYVTOGS-IQAIWTHGSA-N"}
+5YM	{"input":"BOWVQLFMWHZBEF-KTKRTIGZSA-N","sys_name":"N-(9Z-octadecenoyl)-ethanolamine"}
+AE2	{"input":"QGXBDMJGAMFCBF-BNSUEQOYSA-N","sys_name":"3alpha-hydroxy-5beta-androstan-17-one"}
+PFS	{"input":"HVAUUPRFYPCOCA-AREMUKBSSA-N","sys_name":"1-hexadecyl-2-acetyl-sn-glycero-3-phosphocholine"}
+MQ7	{"input":"RAKQPZMEYJZGPI-LJWNYQGCSA-N","sys_name":"2-methyl-3-((2E,6E,10E,14E,18E,22E)-3,7,11,15,19,23,27-heptamethyloctacosa-2,6,10,14,18,22,26-heptaenyl)naphthalene-1,4-dione"}
+1DO	{"input":"LQZZUXJYWNFBMV-UHFFFAOYSA-N","sys_name":"dodecanol"}
+AKR	{"input":"NIXOWILDQLNWCW-UHFFFAOYSA-N","sys_name":"2-propenoic acid"}
+IPE	{"input":"NUHSROFQTUXZQQ-UHFFFAOYSA-N","sys_name":"3-methylbut-3-enyl pyrophosphate"}
+3HC	{"input":"QHHKKMYHDBRONY-VKBDFPRVSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-3-hydroxy-4-({3-[(2-{[(3S)-3-hydroxybutanoyl]sulfanyl}ethyl)amino]-3-oxopropyl}amino)-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}"}
+RRX	{"input":"DMASLKHVQRHNES-FKKUPVFPSA-N"}
+2DC	{"input":"ISBSSBGEYIBVTO-TYKWNDPBSA-N","sys_name":"cholest-5-en-3beta,20R,22R-triol"}
+9IU	{"input":"XMGQYMWWDOXHJM-SNVBAGLBSA-N"}
+NON	{"input":"IJXHLVMUNBOGRR-UHFFFAOYSA-N","sys_name":"methyl nonanoate"}
+T24	{"input":"KLLGGGQNRTVBSU-FQSPHKRJSA-N","sys_name":"13S-hydroxy-9Z,11E,15Z-octadecatrienoic acid"}
+3L9	{"input":"FHVDXUPJFGRQLV-OWPXYNISSA-N"}
+9IR	{"input":"XMGQYMWWDOXHJM-JTQLQIEISA-N"}
+TUD	{"input":"BHTRKEVKTKCXOH-BJLOMENOSA-N","sys_name":"N-(3alpha,7alpha-dihydroxy-5beta-cholan-24-oyl)-taurine"}
+V4W	{"input":"IMUGYKFHMJLTOU-WVZVXSGGSA-N","sys_name":"(4S,5S)-4,5-dihydroxy-2,6-dioxohexanoic acid"}
+DL4	{"input":"PSXQJZDFWDKBIP-MNVVPKPGSA-N","sys_name":"(25R)-3-oxocholest-4-en-26-oic acid"}
+HXD	{"input":"MUCMKTPAZLSKTL-LLVKDONJSA-N","sys_name":"3R-hydroxy-dodecanoic acid"}
+3M5	{"input":"KYGIKEQVUKTKRR-LBPRGKRZSA-N","sys_name":"N-(3-oxo-decanoyl)-homoserine lactone"}
+XVR	{"input":"UOBYXVHBYDUQMN-GXFFZTMASA-N","sys_name":"(4S,10R)-hydroxy-10-methyl-9-oxo-dodec-2-en-1,4-olide"}
+DKA	{"input":"GHVNFZFCNZKVNT-UHFFFAOYSA-N","sys_name":"Decanoic acid"}
+SCA	{"input":"VNOYUJKHFWYWIR-ITIYDSSPSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-4-{[3-({2-[(3-carboxypropanoyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-3-hydroxy-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}"}
+SQS	{"input":"WWUZIQQURGPMPG-KRWOKUGFSA-N","sys_name":"Sphing-4-enine"}
+0IE	{"input":"SUCKEYMKNGZJHK-ZARIWKGHSA-N"}
+MFK	{"input":"CNKJPHSEFDPYDB-HSJNEKGZSA-N","sys_name":"3'-phosphoadenosine 5'-(3-{(3R)-4-[(3-{[2-(decanoylsulfanyl)ethyl]amino}-3-oxopropyl)amino]-3-hydroxy-2,2-dimethyl-4-oxobutyl} dihydrogen diphosphate)"}
+4DY	{"input":"YKPUWZUDDOIDPM-SOFGYWHQSA-N","sys_name":"8-Methyl-N-vanillyl-6E-nonenamide"}
+VDX	{"input":"GMRQFYUYWCNGIN-NKMMMXOESA-N","sys_name":"(5Z,7E)-(1S,3R)-9,10-seco-5,7,10(19)-cholestatriene-1,3,25-triol"}
+3IX	{"input":"JDEPVTUUCBFJIW-YQVDHACTSA-N","sys_name":"5Z,8Z,11Z,14Z-eicosatetraenoyl-CoA"}
+BNC	{"input":"HOGZQSSVBGJUMW-ZTSBSJDLSA-N","sys_name":"24-Nor-5beta-cholane-3alpha,7alpha,12alpha-triol"}
+EQU	{"input":"PDRGHUMCVRDZLQ-WMZOPIPTSA-N","sys_name":"3-hydroxy-estra-1,3,5(10),6,8-pentaen-17-one"}
+DKB	{"input":"RPJZYOHZALDGKI-DIPNUNPCSA-N","sys_name":"1-hexadecanoyl-2-octadecanoyl-glycero-3-phosphoethanolamine"}
+PGV	{"input":"ADYWCMPUNIVOEA-GPJPVTGXSA-N","sys_name":"1-hexadecanoyl-2-(11Z-octadecenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol)"}
+PIV	{"input":"IUGYQRQAERSCNH-UHFFFAOYSA-N","sys_name":"2,2-dimethyl-propanoic acid"}
+SIN	{"input":"KDYFGRWQOYBRFD-UHFFFAOYSA-N","sys_name":"Butanedioic acid"}
+ACA	{"input":"SLXKOJJOQWFEFD-UHFFFAOYSA-N","sys_name":"6-amino-hexanoic acid"}
+970	{"input":"JUVIOZPCNVVQFO-HBGVWJBISA-N","sys_name":"(2R,6aS,12aS)-1,2,6,6a,12,12a- hexahydro-2-isopropenyl-8,9- dimethoxychromeno[3,4-b] furo(2,3-h)chromen-6-one"}
+XPG	{"input":"GMVPRGQOIOIIMI-DWKJAMRDSA-N","sys_name":"9-oxo-11R,15S-dihydroxy-13E-prostaenoic acid"}
+AND	{"input":"FMGSKLZLMKYGDP-USOAJAOKSA-N","sys_name":"3beta-hydroxyandrost-5-en-17-one"}
+OXR	{"input":"PLIUCYCUYQIBDZ-RMWYGNQTSA-N","sys_name":"4-oxo-15-apo-beta-caroten-15-ol"}
+2TD	{"input":"UYCZPLKICNDOCL-UHFFFAOYSA-N","sys_name":"12-Tridecen-2-one"}
+1BO	{"input":"LRHPLDYGYMQRHN-UHFFFAOYSA-N","sys_name":"Butan-1-ol"}
+II3	{"input":"VAGYSFRRYPPSFX-RLVOMNFVSA-N","sys_name":"(3R,3'R,6'R)-7,8-Didehydro-beta,epsilon-carotene-3,3'-diol"}
+FK5	{"input":"QJJXYPPXXYFBGM-LFZNUXCKSA-N"}
+RE2	{"input":"HITJFUSPLYBJPE-UHFFFAOYSA-N"}
+J3Z	{"input":"DNXHEGUUPJUMQT-CBZIJGRNSA-N","sys_name":"3-hydroxy-estra-1,3,5(10)-trien-17-one"}
+7F2	{"input":"AEIJTFQOBWATKX-MRVPVSSYSA-N","sys_name":"(2R)-octane-1,2-diol"}
+FLN	{"input":"VHBFFQKBGNRLFZ-UHFFFAOYSA-N"}
+BCR	{"input":"OENHQHLEOONYIE-JLTXGRSLSA-N"}
+AOX	{"input":"QGXBDMJGAMFCBF-LUJOEAJASA-N","sys_name":"3beta-hydroxy-androstan-17-one"}
+EPA	{"input":"JAZBEHYOTPTENJ-JLNKQSITSA-N","sys_name":"5Z,8Z,11Z,14Z,17Z-eicosapentaenoic acid"}
+MU6	{"input":"OREAFAJWWJHCOT-UHFFFAOYSA-N","sys_name":"2,2-dimethyl-propanedioic acid"}
+ESM	{"input":"CQOQDQWUFQDJMK-SSTWWWIQSA-N","sys_name":"2-methoxy-estra-1,3,5(10)-triene-3,17beta-diol"}
+ZF1	{"input":"ZQSIJRDFPHDXIC-UHFFFAOYSA-N"}
+AXT	{"input":"MQZIGYBFDRPAKN-UWFIBFSHSA-N"}
+I7D	{"input":"KSAQIRSWZGLSET-BOIKDPEESA-N","sys_name":"1,1'-Dimethoxy-3',4'-didehydro-1,2,1',2'-tetrahydro-psi,psi-caroten-4-one"}
+ODD	{"input":"GKJZMAHZJGSBKD-NMMTYZSQSA-N","sys_name":"10E,12Z-octadecadienoic acid"}
+OOG	{"input":"FGSBNBBHOZHUBO-UHFFFAOYSA-N","sys_name":"2-oxo-hexanedioic acid"}
+LSD	{"input":"BBMULGJBVDDDNI-OWKLGTHSSA-N"}
+V2H	{"input":"HKXBNHCUPKIYDM-CGMHZMFXSA-N","sys_name":"(5Z,7E,22E)-(1S,3R)-9,10-seco-5,7,10(19),22-ergostatetraene-1,3-diol"}
+YSV	{"input":"UHMPCVGLSKFXHR-JUTHDLPNSA-N","sys_name":"(7E)-(1R,3R)-2-methylene-19-nor-9,10-seco-5,7-cholestadiene-1,3,25-triol"}
+P5S	{"input":"TZCPCKNHXULUIY-RGULYWFUSA-N","sys_name":"1,2-dioctadecanoyl-sn-glycero-3-phosphoserine"}
+A9M	{"input":"AUJVQJHODMISJP-UHFFFAOYSA-N","sys_name":"N-eicosanoyl-ethanolamine"}
+DVE	{"input":"MMNYKQIDRZNIKT-VSADUBDNSA-N","sys_name":"4alpha,14alpha-dimethyl-24-methylene-cholest-8-en-3beta-ol"}
+RUT	{"input":"IKGXIBQEEMLURG-NVPNHPEKSA-N","sys_name":"3,3',4',5,7-Pentahydroxyflavone 3-rutinoside"}
+94R	{"input":"INDVLXYUCBVVKW-PXBBAZSNSA-N","sys_name":"24-methylene-cholest-5-en-3beta-ol"}
+9NI	{"input":"YKFLAYDHMOASIY-UHFFFAOYSA-N"}
+E3O	{"input":"PROQIPRRNZUXQM-PNVOZDDCSA-N"}
+DPP	{"input":"PECYZEOJVXMISF-REOHCLBHSA-N","sys_name":"2S,3-diamino-propionic acid"}
+CQM	{"input":"XYGOWHUIVNMEIA-XBVYHAPZSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-4-({3-[(2-{[(3S)-3-carboxy-3-hydroxybutanoyl]sulfanyl}ethyl)amino]-3-oxopropyl}amino)-3-hydroxy-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}"}
+CAA	{"input":"OJFDKHTZOUZBOS-CITAKDKDSA-N","sys_name":"Acetoacetyl-CoA"}
+U3D	{"input":"QLEJPADMSQQACL-WWUFLCHTSA-N","sys_name":"1-(11Z-eicosenoyl)-2-(9Z-octadecenoyl)-glycero-3-phosphocholine"}
+TMH	{"input":"GRWFGVWFFZKLTI-RKDXNWHRSA-N"}
+KTY	{"input":"UBQYURCVBFRUQT-UHFFFAOYSA-N","sys_name":"N-(5-aminopentyl)-N-hydroxy-N'-[5-(N-hydroxy-3-{[5-(N-hydroxyacetamido)pentyl]carbamoyl}propanamido)pentyl]butanediamide"}
+SLF	{"input":"GQQZXRPXBDJABR-BDZNYNMQSA-N","sys_name":"N-octadecanoyl-1-beta-(3'-sulfo)-glucosyl-sphing-4-enine"}
+8I9	{"input":"TZKUYUHMJHEXOQ-QYIUPXBKSA-N","sys_name":"{[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[hydroxy({[hydroxy({3-hydroxy-2,2-dimethyl-3-[(2-{[2-(tridecanoylsulfanyl)ethyl]carbamoyl}ethyl)carbamoyl]propoxy})phosphoryl]oxy})phosphoryl]oxy}methyl)oxolan-3-yl]oxy}phosphonic acid"}
+M12	{"input":"QJRRBVNPIKYRQJ-UHFFFAOYSA-N","sys_name":"10-methyl-undecanoic acid"}
+ODM	{"input":"QMVPMAAFGQKVCJ-SNVBAGLBSA-N"}
+GEY	{"input":"PAWGRNGPMLVJQH-KHPPLWFESA-N","sys_name":"2Z-dodecenoic acid"}
+P2D	{"input":"YRKCREAYFQTBPV-UHFFFAOYSA-N","sys_name":"Pentane-2,4-dione"}
+LAX	{"input":"HOBAELRKJCKHQD-QNEBEIHSSA-N","sys_name":"8Z,11Z,14Z-eicosatrienoic acid"}
+EQ3	{"input":"ZRCXVNZZDQGBQT-BANQPSJHSA-N","sys_name":"(3'R)-3'-Hydroxy-beta,beta-caroten-4-one"}
+8KW	{"input":"IUMFLNFLJUUODE-UHFFFAOYSA-N"}
+9HO	{"input":"NPDSHTNEKLQQIJ-UINYOVNOSA-N","sys_name":"9S-hydroxy-10E,12Z-octadecadienoic acid"}
+LGN	{"input":"JMENXJYBCQFIRK-KRJDXUSZSA-N","sys_name":"Galalpha1-3Galbeta1-4Glcbeta-Cer(d18:1\/26:0)"}
+Z6X	{"input":"XLKOZYOVXNPWGT-UHFFFAOYSA-N","sys_name":"3-oxo-tetradecanoic acid"}
+LOP	{"input":"FUUNMZKPCMPCHT-ILGKRYBBSA-N","sys_name":"1-dodecanoyl-2-(9Z-octadecenoyl)-glycero-3-phosphoethanolamine"}
+CTY	{"input":"AGOYDEPGAOXOCK-KCBOHYOISA-N"}
+BDT	{"input":"NVKAWKQGWWIWPM-MISPCMORSA-N","sys_name":"17beta-hydroxy-5beta-androstan-3-one"}
+AON	{"input":"CBMYJHIOYJEBSB-MFXFBURESA-N","sys_name":"5alpha-androstane-3beta,17alpha-diol"}
+PG2	{"input":"BHMBVRSPMRCCGG-OUTUXVNYSA-N","sys_name":"9S,15S-dihydroxy-11-oxo-5Z,13E-prostadienoic acid"}
+RCL	{"input":"WBHHMMIMDMUBKC-XLNAKTSKSA-N","sys_name":"12R-hydroxy-9E-octadecenoic acid"}
+243	{"input":"HNICUWMFWZBIFP-IRQZEAMPSA-N","sys_name":"13S-hydroxy-9Z,11E-octadecadienoic acid"}
+3X1	{"input":"PAWGRNGPMLVJQH-ZHACJKMWSA-N","sys_name":"2E-Dodecenoic acid"}
+BOM	{"input":"CIVIWCVVOFNUST-SCFJQAPRSA-N","sys_name":"10E,12Z-hexadecadien-1-ol"}
+RTL	{"input":"FPIPGXGPPPQFEQ-OVSJKPMPSA-N","sys_name":"Retinol"}
+MC0	{"input":"MZFOKIKEPGUZEN-IBNUZSNCSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-({3-[(2-{[(2S)-2-methyl-3-oxopropanoyl]sulfanyl}ethyl)amino]-3-oxopropyl}amino)-4-oxobutyl] dihydrogen diphosphate}"}
+GAE	{"input":"DSLZVSRJTYRBFB-DUHBMQHGSA-N","sys_name":"2R,3S,4R,5S-tetrahydroxy-hexanedioic acid"}
+LEA	{"input":"NQPDZGIKBAWPEJ-UHFFFAOYSA-N","sys_name":"Pentanoic acid"}
+WO9	{"input":"YIIGGWPZRIXGNH-JGCGQSQUSA-N","sys_name":"1-heptadecanoyl-2-dodecanoyl-glycero-3-phosphoethanolamine"}
+COD	{"input":"KDTSHFARGAKYJN-IBOSZNHHSA-N","sys_name":"[({[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}(hydroxy)phosphoryl)oxy][3-hydroxy-2,2-dimethyl-3-({2-[(2-sulfanylethyl)carbamoyl]ethyl}carbamoyl)propoxy]phosphinic acid"}
+11Z	{"input":"WFTPSUGFEZHCGU-UHFFFAOYSA-N","sys_name":"11-Cyclohexylundecanoic acid"}
+BEO	{"input":"LDHQCZJRKDOVOX-NSCUHMNNSA-N","sys_name":"2E-butenoic acid"}
+HCR	{"input":"OYXZMSRRJOYLLO-KGZHIOMZSA-N","sys_name":"5-cholestene-3beta,7beta-diol"}
+J5X	{"input":"MHVYWTXXZIFXDT-YGNOGLJPSA-N"}
+20E	{"input":"NKDFYOWSKOHCCO-YPVLXUMRSA-N","sys_name":"2beta,3beta,14alpha,20,22R,25-hexahydroxy-5beta-cholest-7-en-6-one"}
+MYR	{"input":"TUNFSRHWOTWDNC-UHFFFAOYSA-N","sys_name":"tetradecanoic acid"}
+HEX	{"input":"VLKZOEOYAKHREP-UHFFFAOYSA-N","sys_name":"hexane"}
+AOI	{"input":"QGXBDMJGAMFCBF-HLUDHZFRSA-N","sys_name":"3alpha-hydroxy-5alpha-androstan-17-one"}
+CCU	{"input":"TXXHDPDFNKHHGW-CCAGOZQPSA-N","sys_name":"2Z,4Z-hexadienedioic acid"}
+ECB	{"input":"RCRCTBLIHCHWDZ-DOFZRALJSA-N","sys_name":"2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycerol"}
+EMO	{"input":"RHMXXJGYXNZAPX-UHFFFAOYSA-N","sys_name":"1,3,8-trihydroxy-6-methylanthracene-9,10-dione"}
+BUA	{"input":"FERIUCNNQQJTOY-UHFFFAOYSA-N","sys_name":"Butanoic acid"}
+PGX	{"input":"SGUKUZOVHSFKPH-YNNPMVKQSA-N","sys_name":"9S,11R-epidioxy-15S-hydroperoxy-5Z,13E-prostadienoic acid"}
+S5V	{"input":"RECUKUPTGUEGMW-UHFFFAOYSA-N"}
+CO8	{"input":"KQMZYOXOBSXMII-CECATXLMSA-N","sys_name":"{[5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[hydroxy({[hydroxy({3-hydroxy-2,2-dimethyl-3-[(2-{[2-(octanoylsulfanyl)ethyl]carbamoyl}ethyl)carbamoyl]propoxy})phosphoryl]oxy})phosphoryl]oxy}methyl)oxolan-3-yl]oxy}phosphonic acid"}
+LBN	{"input":"WTJKGGKOPKCXLL-VYOBOKEXSA-N","sys_name":"1-hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine"}
+MYZ	{"input":"YWWVWXASSLXJHU-WAYWQWQTSA-N","sys_name":"9Z-tetradecenoic acid"}
+PS7	{"input":"ATZKAUGGNMSCCY-VVFNRDJMSA-N","sys_name":"Presqualene diphosphate"}
+SHV	{"input":"MNWFXJYAOYHMED-UHFFFAOYSA-N","sys_name":"heptanoic acid"}
+VL7	{"input":"IEPGNWMPIFDNSD-HZJYTTRNSA-N","sys_name":"2-(9Z,12Z-octadecadienoyl)-sn-glycerol"}
+QNJ	{"input":"QYIXCDOBOSTCEI-NWKZBHTNSA-N","sys_name":"5beta-cholestan-3beta-ol"}
+J6L	{"input":"OBIUGMGQVQMVSK-UHFFFAOYSA-N"}
+XOG	{"input":"GRHWFPUCRVCMRY-TXFIJWAUSA-N","sys_name":"2,6-dimethylocta-2E,6E-dienedial"}
+16Y	{"input":"UGAGPNKCDRTDHP-UHFFFAOYSA-N","sys_name":"16-hydroxy-hexadecanoic acid"}
+QUE	{"input":"REFJWTPEDVJJIY-UHFFFAOYSA-N"}
+HC3	{"input":"INBGSXNNRGWLJU-ZHHJOTBYSA-N","sys_name":"cholest-5-en-3beta,25-diol"}
+STL	{"input":"LUKBXSAWLPMMSZ-OWOJBTEDSA-N"}
+Z1T	{"input":"ZJVVOYPTFQEGPH-AUTSUKAISA-N","sys_name":"N-(tetracosanoyl)-sphing-4-enine"}
+WOC	{"input":"GOHPTLYPQCTZSE-UHFFFAOYSA-N","sys_name":"2,2-dimethyl-butanedioic acid"}
+4I1	{"input":"CNVZJPUDSLNTQU-SEYXRHQNSA-N","sys_name":"6Z-octadecenoic acid"}
+CS8	{"input":"JMFXDZKFFYUOAN-SVHODSNWSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-oxo-4-({3-oxo-3-[(2-{[(pentylsulfany)acetyl]sulfanyl}ethyl)amino]propyl}amino)butyl] dihydrogen diphosphate}"}
+ST9	{"input":"SIARJEKBADXQJG-LFZQUHGESA-N","sys_name":"Octadecanoyl-CoA"}
+VDZ	{"input":"UHMPCVGLSKFXHR-NAQZCRMNSA-N","sys_name":"(7E)-(1R,3R,20S)-2-methylene-19-nor-9,10-seco-5,7-cholestadiene-1,3,25-triol"}
+LEO	{"input":"CCEFMUBVSUDRLG-BBBLOLIVSA-N","sys_name":"(1S,4R,6R)-1-methyl-4-(prop-1-en-2-yl)-7-oxabicyclo[4.1.0]heptane"}
+DZN	{"input":"KYQZWONCHDNPDP-QNDFHXLGSA-N","sys_name":"7-(beta-D-glucopyranosyloxy)-3-(4-hydroxyphenyl)-4H-1-benzopyran-4-one"}
+EGT	{"input":"XMOCLSLCDHWDHP-IUODEOHRSA-N"}
+5UF	{"input":"FYSSBMZUBSBFJL-VIFPVBQESA-N","sys_name":"3S-hydroxy-decanoic acid"}
+GPP	{"input":"GVVPGTZRZFNKDS-JXMROGBWSA-N","sys_name":"Geranyl pyrophosphate"}
+MLC	{"input":"LTYOQGRJFJAKNA-DVVLENMVSA-N","sys_name":"Malonyl CoA"}
+PQN	{"input":"MBWXNTAXLNYFJB-NKFFZRIASA-N","sys_name":"2-methyl-3-[(2E,7R,11R)-3,7,11,15-tetramethylhexadec-2-en-1-yl]naphthalene-1,4-dione"}
+P0T	{"input":"QHMBSVQNZZTUGM-ZWKOTPCHSA-N","sys_name":"2-[(1R,6R)-3-methyl-6-(1-methylethenyl)-2-cyclohexen-1-yl]-5-pentyl-1,3-benzenediol"}
+LNL	{"input":"DTOSIQBPPRVQHS-PDBXOOCHSA-N","sys_name":"9Z,12Z,15Z-octadecatrienoic acid"}
+9AX	{"input":"BPSHPRCHMGHBGC-AHKHSGQUSA-N","sys_name":"(2E)-3-methyl-5-[(1R,2S,8aS)-1,2,5,5-tetramethyl-1,2,3,5,6,7,8,8a-octahydronaphthalen-1-yl]pent-2-en-1-yl trihydrogen diphosphate"}
+YZY	{"input":"DOZKMFVMCATMEH-OZKTZCCCSA-N","sys_name":"1-(9Z-octadecenoyl)-2-hexadecanoyl-sn-glycerol"}
+COW	{"input":"XLURBJBQJZCJHJ-TYHXJLICSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-4-{[3-({2-[(2-aminobenzoyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-3-hydroxy-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}"}
+6OU	{"input":"FHQVHHIBKUMWTI-OTMQOFQLSA-N","sys_name":"1-hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine"}
+N1S	{"input":"CRDAMVZIKSXKFV-PVMFERMNSA-N","sys_name":"3,7,11-trimethyldodeca-2Z,6E,10-trien-1-ol"}
+REA	{"input":"SHGAZHPCJJPHSC-YCNIQYBTSA-N","sys_name":"3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2E,4E,6E,8E-tetraenoic acid"}
+AJP	{"input":"UVYVLBIGDKGWPX-KUAJCENISA-N","sys_name":"(25R)-2alpha,15beta-dihydroxy-5alpha-spirostan-3beta-yl beta-D-glucopyranosyl-(1->3)-beta-D-galactopyranosyl-(1->2)-[beta-D-xylopyranosyl-(1->3)]-beta-D-glucopyranosyl-(1->4)-beta-D-galactopyranoside"}
+ECH	{"input":"QXNWZXMBUKUYMD-QQGJMDNJSA-N","sys_name":"beta,beta-Caroten-4-one"}
+OBN	{"input":"LPMXVESGRSUGHW-HBYQJFLCSA-N","sys_name":"1beta,3beta,5beta,11alpha,14beta,19beta-hexahydroxy-5beta-card-20(22)-enolide 3-O-(alpha-L-rhamnopyranoside)"}
+GRQ	{"input":"WTEVQBCEXWBHNA-JXMROGBWSA-N","sys_name":"Geranial"}
+JXY	{"input":"DYHOLQACRGJEHX-ZDUSSCGKSA-N","sys_name":"(2S)-2,3-Dihydro-5,7-dihydroxy-2- (4-hydroxyphenyl)-6,8-dimethyl-4H-1-benzopyran-4-one"}
+OCA	{"input":"WWZKQHOCKIZLMA-UHFFFAOYSA-N","sys_name":"octanoic acid"}
+8K6	{"input":"RZJRJXONCZWCBN-UHFFFAOYSA-N","sys_name":"Octadecane"}
+MYC	{"input":"IKMDFBPHZNJCSN-UHFFFAOYSA-N"}
+BKA	{"input":"PRRBQHNMYJRHFW-UHFFFAOYSA-N","sys_name":"3-oxo-heptanoic acid"}
+P2E	{"input":"XEYBRNLFEZDVAW-ARSRFYASSA-N","sys_name":"9-oxo-11R,15S-dihydroxy-5Z,13E-prostadienoic acid"}
+A9S	{"input":"JLIDBLDQVAYHNE-QHFMCZIYSA-N","sys_name":"(2Z,4E)-5-[(1R)-1-hydroxy-2,6,6-trimethyl-4-oxocyclohex-2-en-1-yl]-3-methylpenta-2,4-dienoic acid"}
+1L3	{"input":"DKHGMERMDICWDU-GHDNBGIDSA-N","sys_name":"2-methyl-3-((2E,6E,10E)-3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraenyl)naphthalene-1,4-dione"}
+6VW	{"input":"NPAGDVCDWIYMMC-IZPLOLCNSA-N","sys_name":"17beta-hydroxyestr-4-en-3-one"}
+PKZ	{"input":"MNBKLUUYKPBKDU-BBECNAHFSA-N","sys_name":"Hexadecanoyl-CoA"}
+KTC	{"input":"BGKROBBCCGUUCF-UHFFFAOYSA-N","sys_name":"10-oxo-octadecanoic acid"}
+PML	{"input":"WLJVNTCWHIRURA-UHFFFAOYSA-N","sys_name":"Heptanedioic acid"}
+NZZ	{"input":"GLZPCOQZEFWAFX-YFHOEESVSA-N","sys_name":"Z-Geraniol"}
+EPM	{"input":"FCVASHHBGGKTGT-IBGZPJMESA-N","sys_name":"N-hexadecanoyl-methionine"}
+DHT	{"input":"NVKAWKQGWWIWPM-ABEVXSGRSA-N","sys_name":"17beta-hydroxy-androstan-3-one"}
+8Z2	{"input":"IRFYVBULXZMEDE-DEEZISNZSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-4-({3-[(2-{[(2E)-dodec-2-enoyl]sulfanyl}ethyl)amino]-3-oxopropyl}amino)-3-hydroxy-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}"}
+PYR	{"input":"LCTONWCANYUPML-UHFFFAOYSA-N","sys_name":"2-oxo-propinoic acid"}
+AGI	{"input":"KZNIFHPLKGYRTM-UHFFFAOYSA-N"}
+UCC	{"input":"IZWCGXGZGYKDHR-GRBGHKMPSA-N","sys_name":"Undecanoyl-CoA"}
+YOG	{"input":"UPWGQKDVAURUGE-KTKRTIGZSA-N","sys_name":"2-(9Z-octadecenoyl)-sn-glycerol"}
+ATE	{"input":"KRVXMNNRSSQZJP-PHFHYRSDSA-N","sys_name":"androst-16-en-3alpha-ol"}
+F23	{"input":"XEZVDURJDFGERA-UHFFFAOYSA-N","sys_name":"Tricosanoic acid"}
+3V4	{"input":"BQOFWKZOCNGFEC-DTWKUNHWSA-N"}
+87K	{"input":"CKDDRHZIAZRDBW-UHFFFAOYSA-N","sys_name":"Heneicosanoic acid"}
+DCR	{"input":"VKOBVWXKNCXXDE-UHFFFAOYSA-N","sys_name":"Eicosanoic acid"}
+OYA	{"input":"NUJGJRNETVAIRJ-UHFFFAOYSA-N","sys_name":"octanal"}
+4D8	{"input":"MYWAIWDQTCHPTH-LJAIZBFVSA-N","sys_name":"3beta-hydroxy-4-methyl-5alpha-cholesta-8,24-diene-4alpha-carboxylic acid"}
+FSE	{"input":"XHEFDIBZLJXQHF-UHFFFAOYSA-N","sys_name":"3,3',4',7-Tetrahydroxyflavone"}
+EZE	{"input":"PDHAOJSHSJQANO-OWOJBTEDSA-N"}
+0V9	{"input":"CZOSTDZGCCEZTJ-WMHOIYFHSA-N","sys_name":"1-hexadecanoyl-2-(9Z-hexadecenoyl)-glycero-3-phosphoethanolamine"}
+0VT	{"input":"UHEPJGULSIKKTP-UHFFFAOYSA-N","sys_name":"6-Methyl-5-hepten-2-one"}
+ZGA	{"input":"DFKDOZMCHOGOBR-NCSQYGPNSA-N","sys_name":"1S-((4S-acetoxy-5R-methyl-3-methylene-6-phenylhexyl)-6-(E)-4S,6S-dimethyloct-2-enoyloxy)-4,7S-dihydroxy-2,8-dioxabicyclo[3.2.1]octane-3S,4S,5R-tricarboxylic acid "}
+3GD	{"input":"QYWVASPEUXEHSY-NNRNTGNWSA-N","sys_name":"N-(docosanoyl)-1-beta-lactosyl-sphing-4-enine"}
+82T	{"input":"BBYWOYAFBUOUFP-JOCHJYFZSA-N","sys_name":"1-octadecanoyl-sn-glycero-3-phosphoethanolamine"}
+ABU	{"input":"BTCSSZJGUNDROE-UHFFFAOYSA-N","sys_name":"4-amino-butanoic acid"}
+18C	{"input":"VODZWWMEJITOND-NXCSZAMKSA-N","sys_name":"N-(octadecanoyl)-sphing-4-enine"}
+ASD	{"input":"AEMFNILZOJDQLW-QAGGRKNESA-N","sys_name":"androst-4-ene-3,17-dione"}
+1PX	{"input":"UNRULDRRONAKLU-TURZORIXSA-N","sys_name":"N-(hexadecanoyl)-sphing-4-enine-1-phosphate"}
+KAP	{"input":"GUAHPAJOXVYFON-ZETCQYMHSA-N","sys_name":"8S-amino-7-oxo-nonanoic acid"}
+AKB	{"input":"SAUCHDKDCUROAO-VKHMYHEASA-N","sys_name":"2S-amino-3-oxo-butanoic acid"}
+6JP	{"input":"AIONOLUJZLIMTK-AWEZNQCLSA-N"}
+CO1	{"input":"OSENKJZWYQXHBN-XVYZBDJZSA-N","sys_name":"24S,25-epoxy-cholest-5-en-3beta-ol"}
+YSS	{"input":"CTXLUMAOXBULOZ-BKVRKCTKSA-N","sys_name":"9S,15R-dihydroxy-11-oxo-15-methyl-5Z,13E-prostadienoic acid"}
+15Z	{"input":"PVFGJHYLIHMCQD-UHFFFAOYSA-N","sys_name":"7,3',4'-Trihydroxyflavone"}
+MVD	{"input":"PSWKLSOBPNHZSY-GEMNOXHFSA-N","sys_name":"(5Z,7E)-(1S,2S,3R)-2-methyl-9,10-seco-5,7,10(19)-cholestatriene-1,3,25-triol"}
+BIV	{"input":"WTQXZYVWLNPNEX-LKUPKUSPSA-N","sys_name":"(5Z,7E)-(1R,3S)-21-(3-hydroxy-3-methyl-butyl)-9,10-seco-5,7,10(19)-cholestatrien-1,3,25-triol"}
+ALQ	{"input":"KQNPFQTWMSNSAP-UHFFFAOYSA-N","sys_name":"2-methyl-propanoic acid"}
+OHN	{"input":"PHSRRHGYXQCRPU-AWEZNQCLSA-N","sys_name":"N-(3-oxododecanoyl) homoserine lactone"}
+OCC	{"input":"FZEXGDDBXLBRTD-VCBASKJSSA-N","sys_name":"(5Z,7E)-(1S,2S,3R)-2-(3-hydroxy-propoxy)-9,10-seco-5,7,10(19)-cholestatriene-1,3,25-triol"}
+7OT	{"input":"FJOCMTHZSURUFA-AXYGSFPTSA-N"}
+A86	{"input":"SJWWTRQNNRNTPU-XJUZQKKNSA-N","sys_name":"(3S,5R,6S,3'S,5'R,6'R)-3,5'-dihydroxy-8-oxo-6',7'-didehydro-5,6-epoxy-5,6,7,8,5',6'-hexahydro-beta,beta-caroten-3'-yl acetate"}
+56S	{"input":"UJPPXNXOEVDSRW-UHFFFAOYSA-N","sys_name":"Isopropyl dodecanoate"}
+BVL	{"input":"ZUGCRBMNFSAUOC-YRNVUSSQSA-N"}
+5JK	{"input":"OYXZMSRRJOYLLO-RVOWOUOISA-N","sys_name":"cholest-5-en-3beta,7alpha-diol"}
+HBR	{"input":"ROWKJAVDOGWPAT-GSVOUGTGSA-N","sys_name":"3R-Hydroxybutan-2-one"}
+5D5	{"input":"BHTRKEVKTKCXOH-LBSADWJPSA-N","sys_name":"N-(3alpha,7beta-dihydroxy-5beta-cholan-24-oyl)-taurine"}
+A8W	{"input":"DIJBBUIOWGGQOP-QGVNFLHTSA-N","sys_name":"20-oxopregn-5-en-3beta-yl sulfate"}
+V8Z	{"input":"FAMPSKZZVDUYOS-HRGUGZIWSA-N"}
+UD1	{"input":"LFTYTUAZOPRMMI-CFRASDGPSA-N","sys_name":"UDP-N-acetyl-alphaD-glucosamine"}
+CA1	{"input":"FKRCODPIKNYEAC-UHFFFAOYSA-N","sys_name":"ethyl propionate"}
+1PZ	{"input":"KXEMZGPJXBKYJP-VARSQMIESA-N","sys_name":"N-(dodecanoyl)-sphing-4-enine-1-phosphate"}
+B7N	{"input":"YOBFISPJJWPPTK-BAAZTTAESA-N","sys_name":"1-octadecanoyl-2-(9Z-octadecenoyl)-glycero-3-phospho-(1'-myo-inositol)"}
+HW2	{"input":"OVSQVDMCBVZWGM-QSOFNFLRSA-N"}
+9MI	{"input":"YHQGMYUVUMAZJR-UHFFFAOYSA-N"}
+ERU	{"input":"UAUDZVJPLUQNMU-KTKRTIGZSA-N","sys_name":"13Z-docosenamide"}
+674	{"input":"GYLUFQJZYAJQDI-UHFFFAOYSA-N"}
+47X	{"input":"DDKGKOOLFLYZDL-UHFFFAOYSA-N"}
+LAN	{"input":"CAHGCLMLTWQZNJ-BQNIITSRSA-N","sys_name":"lanosta-8,24-dien-3beta-ol"}
+4RF	{"input":"PVNIQBQSYATKKL-UHFFFAOYSA-N","sys_name":"1,2,3-trihexadecanoyl-sn-glycerol"}
+PE9	{"input":"AMQJEAYHLZJPGS-UHFFFAOYSA-N","sys_name":"Pentan-1-ol"}
+A8Z	{"input":"CYKYBWRSLLXBOW-GDYGHMJCSA-N","sys_name":"3alpha,21-dihydroxy-5alpha-pregnane-20-one"}
+D6M	{"input":"KMAOMYOPEIRFLB-SFHVURJKSA-N","sys_name":"N-hexadecanoyl-glutamic acid"}
+D6O	{"input":"HSKSAKBZUITULZ-UPHRSURJSA-N","sys_name":"(2Z)-4-formamido-4-oxobut-2-enoic acid"}
+46E	{"input":"NEZDNQCXEZDCBI-WJOKGBTCSA-N","sys_name":"1,2-ditetradecanoyl-sn-glycero-3-phosphoethanolamine"}
+GCH	{"input":"RFDAIACWWDREDC-FRVQLJSFSA-N","sys_name":"N-(3alpha,7alpha,12alpha-trihydroxy-5beta-cholan-24-oyl)-glycine"}
+HE4	{"input":"BBMCTIGTTCKYKF-UHFFFAOYSA-N","sys_name":"Heptan-1-ol"}
+ECS	{"input":"DILDHNKDVHLEQB-XSSYPUMDSA-N","sys_name":"estra-1,3,5(10)-triene-2,3,17beta-triol"}
+1ZZ	{"input":"IKBWVSPLSBIYSK-CIVUBGFFSA-N","sys_name":"O-dodecanoyl-adenosine monophosphate"}
+AZ1	{"input":"BDJRBEYXGGNYIS-UHFFFAOYSA-N","sys_name":"Nonanedioic acid"}
+HQW	{"input":"GQKXCBCSVYJUMI-WACKOAQBSA-N"}
+0XE	{"input":"IKIIZLYTISPENI-ZFORQUDYSA-N"}
+4MV	{"input":"FGKJLKRYENPLQH-UHFFFAOYSA-N","sys_name":"4-methyl-pentanoic acid"}
+3WL	{"input":"FXNFHKRTJBSTCS-UHFFFAOYSA-N","sys_name":"5,6,7-Trihydroxyflavone"}
+PSF	{"input":"MIQYPPGTNIFAPO-CABCVRRESA-N","sys_name":"1,2-dihexanoyl-sn-glycero-3-phosphoserine"}
+MEZ	{"input":"HNEGQIOMVPPMNR-NSCUHMNNSA-N","sys_name":"2-methyl-2E-butenedioic acid"}
+7PT	{"input":"NUPNVWUYFVEAIT-UJJBCWTCSA-N"}
+DOG	{"input":"SHIBSTMRCDJXLN-KCZCNTNESA-N","sys_name":"3beta,12beta,14-trihydroxy-5beta-card-20(22)-enolide"}
+HCY	{"input":"JYGXADMDTFJGBT-VWUMJDOOSA-N","sys_name":"11beta,17,21-trihydroxypregn-4-ene-3,20-dione"}
+04E	{"input":"JDNTWHVOXJZDSN-UHFFFAOYSA-N","sys_name":"Iodoethanoic acid"}
+7ZU	{"input":"ZGLHBRQAEXKACO-XJRQOBMKSA-N","sys_name":"(5Z,7E,22E)-(1S,3R)-9,10-seco-5,7,10(19),22-ergostatetraene-1,3,25-triol"}
+XXC	{"input":"ZVSXKFNTWOIGJI-UHFFFAOYSA-N","sys_name":"7-phenyl-heptanoic acid"}
+06L	{"input":"QGJZLNKBHJESQX-FZFNOLFKSA-N","sys_name":"3beta-Hydroxy-lup-20(29)-en-28-oic acid"}
+ECP	{"input":"JCAIWDXKLCEQEO-PGHZQYBFSA-N"}
+140	{"input":"KVTFEOAKFFQCCX-UHFFFAOYSA-N","sys_name":"N-hexadecanoyl-glycine"}
+AUO	{"input":"DRSKVOAJKLUMCL-MMUIXFKXSA-N"}
+LTB	{"input":"VNYSSYRCGWBHLG-AMOLWHMGSA-N","sys_name":"5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid"}
+JU3	{"input":"KCUZCRLRQVRBBV-UHFFFAOYSA-N"}
+11A	{"input":"ZDPHROOEEOARMN-UHFFFAOYSA-N","sys_name":"undecanoic acid"}
+MB8	{"input":"UIERETOOQGIECD-ARJAWSKDSA-N","sys_name":"2-methyl-2Z-butenoic acid"}
+PJ8	{"input":"NDJKXXJCMXVBJW-UHFFFAOYSA-N","sys_name":"heptadecane"}
+2TX	{"input":"QYIMSPSDBYKPPY-RSKUXYSASA-N","sys_name":"2,3S-epoxy-2,6,10,15,19,23-hexamethyltetracosa-6E,10E,14E,18E,22-pentaene"}
+4QM	{"input":"PFZUIDNKXWIWBG-YHEMGIGTSA-N","sys_name":"5beta-Cholane-3alpha,7alpha,12alpha-triol"}
+VD1	{"input":"QSLUXQQUPXBIHH-YHSKWIAJSA-N","sys_name":"(7E)-(1R,3R,20S)-2-methylene-19,nor-20-dihomo-9,10-seco-5,7-pregnadien-1,3-diol"}
+G8C	{"input":"UNACBKDVIYEXSL-LJQANCHMSA-N","sys_name":"1,2-dioctanoyl-sn-glycero-3-phosphoethanolamine"}
+JAA	{"input":"ZNJFBWYDHIGLCU-HWKXXFMVSA-N","sys_name":"(1R,2R)-3-oxo-2-(pent-2Z-enyl)-cyclopentaneacetic acid"}
+FVT	{"input":"ZGXJTSGNIOSYLO-UHFFFAOYSA-N","sys_name":"4-oxo-5-amino-pentanoic acid"}
+DMA	{"input":"CBIDRCWHNCKSTO-UHFFFAOYSA-N","sys_name":"3-methylbut-2-enyl pyrophosphate"}
+UDG	{"input":"KOJCFMYSTWNMQW-RUAJDYCTSA-N","sys_name":"UDP-2,3-bis-(3R-hydroxy-tetradecanoyl)-alphaD-glucosamine"}
+MC9	{"input":"LWQQLNNNIPYSNX-UROSTWAQSA-N","sys_name":"(5Z,7E,22E)-(1S,3R,24S)-26,27-cyclo-9,10-seco-5,7,10(19),22-cholestatetraene-1,3,24-triol"}
+K2B	{"input":"NYOXRYYXRWJDKP-GYKMGIIDSA-N","sys_name":"cholest-4-en-3-one"}
+6F8	{"input":"RMTXUPIIESNLPW-UTOQUPLUSA-N","sys_name":"3-((8Z,11Z)-pentadeca-8,11-dien-1-yl)benzene-1,2-diol"}
+LNA	{"input":"LELVHAQTWXTCLY-XYWKCAQWSA-N","sys_name":"10-nitro-9Z,12Z-octadecadienoic acid"}
+GBL	{"input":"YEJRWHAVMIAJKC-UHFFFAOYSA-N","sys_name":"Dihydrofuran-2(3H)-one"}
+OC9	{"input":"KBPLFHHGFOOTCA-UHFFFAOYSA-N","sys_name":"Octan-1-ol"}
+TQN	{"input":"VOXDTCSXQHOYKC-XGEOUJBZSA-N"}
+LNK	{"input":"OFBQJSOFQDEBGM-UHFFFAOYSA-N","sys_name":"Pentane"}
+X90	{"input":"KEMQGTRYUADPNZ-UHFFFAOYSA-N","sys_name":"heptadecanoic acid"}
+HXC	{"input":"OEXFMSFODMQEPE-HDRQGHTBSA-N","sys_name":"Hexanoyl-CoA"}
+IPB	{"input":"MGSRCZKZVOBKFT-UHFFFAOYSA-N"}
+ACN	{"input":"CSCPPACGZOOCGX-UHFFFAOYSA-N","sys_name":"Propan-2-one "}
+J2Z	{"input":"WPOCIZJTELRQMF-QFXBJFAPSA-N","sys_name":"3,16alpha-dihydroxy-1,3,5(10)-estratrien-17-one"}
+5CT	{"input":"BZUIJMCJNWUGKQ-IUCAKERBSA-N","sys_name":"(2S)-2-amino-6-{[(2S)-4-amino-2-hydroxybutyl]amino}hexanoic acid"}
+LTD	{"input":"YEESKJGWJFYOOK-IJHYULJSSA-N","sys_name":"5S-hydroxy-6R-(S-cysteinylglycinyl)-7E,9E,11E,14Z-eicosatetraenoic acid"}
+HUL	{"input":"IHFBPDAQLQOCBX-UHFFFAOYSA-N"}
+ILE	{"input":"AGPKZVBTJJNPAG-WHFBIAKZSA-N","sys_name":"2S-Amino-3S-methylpentanoic acid"}
+DLM	{"input":"JKHRCGUTYDNCLE-UHFFFAOYSA-O"}
+Z41	{"input":"JEJLGIQLPYYGEE-XIFFEERXSA-N","sys_name":"1,2-dihexadecanoyl-sn-glycerol"}
+X2X	{"input":"NMDWGEGFJUBKLB-YFKPBYRVSA-N","sys_name":"(2S)-2-hydroxy-2-methyl-3-oxobutanoic acid"}
+PIO	{"input":"XLNCEHRXXWQMPK-MJUMVPIBSA-N","sys_name":"1,2-(dioctanoyl)-sn-glycero-3-phospho-(1'- myo-inositol-4',5'-bisphosphate)"}
+DMV	{"input":"PDGXJDXVGMHUIR-UJURSFKZSA-N","sys_name":"(2R,3R)-2,3-dihydroxy-3-methylpentanoic acid"}
+8SP	{"input":"TWOCGGYLNFTSJO-MOPGFXCFSA-N","sys_name":"1,2-dioctanoyl-sn-glycero-3-phosphoserine"}
+KGD	{"input":"BRKQDNOGSHYATK-HNNISBQLSA-N"}
+IHT	{"input":"UNJKJDIRJWIHLL-BQLQDKTLSA-N","sys_name":"7,8-Didehydro-beta,beta-caroten-3-ol"}
+FAW	{"input":"JFBCSFJKETUREV-LJAQVGFWSA-N","sys_name":"1,2-ditetradecanoyl-sn-glycerol"}
+4AX	{"input":"DYDCUQKUCUHJBH-UWTATZPHSA-N"}
+J0U	{"input":"LTTQKYMNTNISSZ-MWTRTKDXSA-N","sys_name":"7,2',4'-Trihydroxy-8-lavandulyl-5-methoxyflavanone"}
+KNA	{"input":"FBUKVWPVBMHYJY-UHFFFAOYSA-N","sys_name":"nonanoic acid"}
+AOM	{"input":"CBMYJHIOYJEBSB-YSZCXEEOSA-N","sys_name":"androstan-3beta,17beta-diol"}
+F15	{"input":"WQEPLUUGTLDZJY-UHFFFAOYSA-N","sys_name":"pentadecanoic acid"}
+DXT	{"input":"JBIWCJUYHHGXTC-AKNGSSGZSA-N"}
+VRP	{"input":"ZZIKIHCNFWXKDY-GNTQXERDSA-N","sys_name":"(2S,3R,4R,6E)-2-amino-3,4-dihydroxy-2-(hydroxymethyl)-14-oxoicos-6-enoic acid"}
+AIB	{"input":"FUOOLUPWFVMBKG-UHFFFAOYSA-N","sys_name":"2-amino-2-methyl-propanoic acid"}
+T7M	{"input":"WSLBJQQQZZTFBA-NPJVAJNNSA-N","sys_name":"1-heptadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phospho-(1'-myo-inositol-4'-phosphate)"}
+3LA	{"input":"DZHSPYMHDVROSM-UHFFFAOYSA-N","sys_name":"3-oxo-dodecanoic acid"}
+A8C	{"input":"CAOMCZAIALVUPA-UHFFFAOYSA-N","sys_name":"3-(methyl-sulfanyl)-propanoic acid"}
+UGU	{"input":"PXGPLTODNUVGFL-YNNPMVKQSA-N","sys_name":"9S,11R,15S-trihydroxy-5Z,13E-prostadienoic acid"}
+KDH	{"input":"WMBWREPUVVBILR-WIYYLYMNSA-N"}
+1T9	{"input":"VSSNYUXSRXINIP-WRBRXSDHSA-N","sys_name":"N-(octanoyl)-sphing-4-enine-1-phosphate"}
+P9N	{"input":"AURFZBICLPNKBZ-YZRLXODZSA-N","sys_name":"3alpha-hydroxy-5beta-pregnan-20-one"}
+DEC	{"input":"CXMXRPHRNRROMY-UHFFFAOYSA-N","sys_name":"Decanedioic acid"}
+S1P	{"input":"DUYSYHSSBDVJSM-KRWOKUGFSA-N","sys_name":"Sphing-4-enine-1-phosphate"}
+GA3	{"input":"IXORZMNAPKEEDV-OBDJNFEBSA-N"}
+ODT	{"input":"ZSXWVPXJLXTOQQ-ZRGCPWHVSA-N","sys_name":"11E,13E,15Z-octadecatrienoic acid"}
+DP6	{"input":"SIGQQUBJQXSAMW-ZCFIWIBFSA-N","sys_name":"3R-methyl-3-hydroxypentanoic acid 5-diphosphate"}
+PAM	{"input":"SECPZKHBENQXJG-FPLPWBNLSA-N","sys_name":"9Z-hexadecenoic acid"}
+BXA	{"input":"KDPAWGWELVVRCH-UHFFFAOYSA-N","sys_name":"2-bromoethanoic acid"}
+TSN	{"input":"RTKIYFITIVXBLE-QEQCGCAPSA-N"}
+8Z9	{"input":"NNNVXFKZMRGJPM-KHPPLWFESA-N","sys_name":"6Z-hexadecenoic acid"}
+T55	{"input":"OAOABCKPVCUNKO-UHFFFAOYSA-N","sys_name":"8-methyl-nonanoic acid"}
+EPB	{"input":"QXRSDHAAWVKZLJ-PVYNADRNSA-N"}
+XEG	{"input":"LSHVYAFMTMFKBA-PZJWPPBQSA-N"}
+BMD	{"input":"DNSISZSEWVHGLH-UHFFFAOYSA-N","sys_name":"butanamide"}
+F9R	{"input":"WDJUZGPOPHTGOT-XUDUSOBPSA-N","sys_name":"3beta-[2,6-dideoxy-beta-D-ribo-hexopyranosyl-(1-4)-2,6-dideoxy-beta-D-ribo-hexopyranosyl-(1-4)-2,6-dideoxy-beta-D-ribo-hexopyranosyloxy]-14-hydroxy-5beta-card-20(22)-enolide"}
+HL0	{"input":"TZWZKDULKILUPV-LBPRGKRZSA-N","sys_name":"N-decanoyl-homoserine lactone"}
+RHN	{"input":"FCDLCPWAQCPTKC-UHFFFAOYSA-N","sys_name":"4,5-dihydroxy-9,10-dioxoanthracene-2-carboxylic acid"}
+ACD	{"input":"YZXBAPSDXZZRGB-DOFZRALJSA-N","sys_name":"5Z,8Z,11Z,14Z-eicosatetraenoic acid"}
+WGR	{"input":"JLBSVDZUWJLOCF-ZLKQSCCRSA-N"}
+18L	{"input":"ZQTAMPRZFOOEEP-KKFOGOCZSA-N","sys_name":"1-(9Z,12Z-octadecadienoyl)-glycero-3-phosphate"}
+2RH	{"input":"LVRFTAZAXQPQHI-RXMQYKEDSA-N","sys_name":"2R-hydroxy-4-methyl-pentanoic acid"}
+DFD	{"input":"BCLJZFLDSCTULJ-UHFFFAOYSA-N","sys_name":"decyl formate"}
+VLP	{"input":"BBNYCLAREVXOSG-UHFFFAOYSA-N","sys_name":"2-hexadecanoyl-sn-glycerol"}
+KDG	{"input":"WPAMZTWLKIDIOP-WVZVXSGGSA-N","sys_name":"3-deoxy-D-erythro-hex-2-ulosonic acid"}
+AF7	{"input":"HMMGKOVEOFBCAU-BCDBGHSCSA-N","sys_name":"(4R)-3alpha-acetoxy-11-oxo-urs-12-en-23-oic acid"}
+DE1	{"input":"MWKFXSUHUHTGQN-UHFFFAOYSA-N","sys_name":"1-decanol"}
+LU2	{"input":"IQPNAANSBPBGFQ-UHFFFAOYSA-N"}
+DQH	{"input":"CXQWRCVTCMQVQX-LSDHHAIUSA-N"}
+EST	{"input":"VOXZDWNPVJITMN-ZBRFXRBCSA-N","sys_name":"estra-1,3,5(10)-triene-3,17beta-diol"}
+FWC	{"input":"DYCZFHXLKCLDQL-SXQYHYLKSA-N","sys_name":"N-methylanthraniloyl-CoA"}
+CBW	{"input":"MPDGHEJMBKOTSU-YKLVYJNSSA-N"}
+9EE	{"input":"GVNWZKBFMFUVNX-UHFFFAOYSA-N","sys_name":"adipamide"}
+DL7	{"input":"SQTAVUCHOVVOFD-QAIVWSEESA-N","sys_name":"(5alpha,25R)-3-oxocholest-7-en-26-oic acid"}
+GCY	{"input":"POQRWMRXUOPCLD-HIIAJUEOSA-N","sys_name":"Galbeta-Cer(d18:1\/24:0)"}
+ERB	{"input":"IDRYSCOQVVUBIJ-PPGFLMPOSA-N"}
+ZWY	{"input":"CZWCKYRVOZZJNM-USOAJAOKSA-N","sys_name":"3beta-Hydroxyandrost-5-en-17-one 3-sulfate"}
+1EX	{"input":"GKFQVSXEEVMHMA-OUPQRBNQSA-N","sys_name":"11Z,13Z-Hexadecadien-1-ol"}
+TCH	{"input":"WBWWGRHZICKQGZ-HZAMXZRMSA-N","sys_name":"N-(3alpha,7alpha,12alpha-trihydroxy-5beta-cholan-24-oyl)-taurine"}
+LNB	{"input":"ZYFTUIURWQWFKQ-QIAGQCQHSA-N","sys_name":"12-nitro-9Z,12Z-octadecadienoic acid"}
+BCO	{"input":"CRFNGMNYKDXRTN-CITAKDKDSA-N","sys_name":"3'-phosphoadenosine 5'-(3-{(3R)-4-[(3-{[2-(butanoylsulfanyl)ethyl]amino}-3-oxopropyl)amino]-3-hydroxy-2,2-dimethyl-4-oxobutyl} dihydrogen diphosphate)"}
+MCA	{"input":"MZFOKIKEPGUZEN-AGCMQPJKSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-({3-[(2-{[(2R)-2-methyl-3-oxopropanoyl]sulfanyl}ethyl)amino]-3-oxopropyl}amino)-4-oxobutyl] dihydrogen diphosphate}"}
+NKO	{"input":"YNDYKPRNFWPPFU-GOSISDBHSA-N","sys_name":"1-hexadecanoyl-sn-glycero-3-phosphate"}
+PLM	{"input":"IPCSVZSSVZVIGE-UHFFFAOYSA-N","sys_name":"hexadecanoic acid"}
+ODI	{"input":"OEIJHBUUFURJLI-UHFFFAOYSA-N","sys_name":"octane-1,8-diol"}
+6Q5	{"input":"WCGUUGGRBIKTOS-GPOJBZKASA-N","sys_name":"3beta-hydroxyurs-12-en-28-oic acid"}
+STE	{"input":"QIQXTHQIDYTFRH-UHFFFAOYSA-N","sys_name":"octadecanoic acid"}
+3KL	{"input":"KIQFUORWRVZTHT-OPTMKGCMSA-N","sys_name":"3-Oxo-5beta-cholan-24-oic Acid"}
+HL4	{"input":"VFFNZZXXTGXBOG-LURJTMIESA-N","sys_name":"N-butanoyl-l-homoserine lactone"}
+BLD	{"input":"IXVMHGVQKLDRKH-KNBKMWSGSA-N","sys_name":"2alpha,3alpha,22R,23R-tetrahydroxy-6,7-seco-5-campestano-6,7-lactone"}
+STG	{"input":"UZKIAJMSMKLBQE-JRSYHJKYSA-N","sys_name":"estra-1,3,5(10)-triene-3,16alpha,17beta-triol 3-D-glucuronide"}
+AS4	{"input":"PQSUYGKTWSAVDQ-ZVIOFETBSA-N","sys_name":"11beta,21-dihydroxy-3,20-dioxo-pregn-4-ene-18-al"}
+28E	{"input":"PFTAWBLQPZVEMU-UKRRQHHQSA-N"}
+LYC	{"input":"OAIJSZIZWZSQBC-GYZMGTAESA-N"}
+GBJ	{"input":"LBQIJVLKGVZRIW-ZDUSSCGKSA-N"}
+FAR	{"input":"JXBSHSBNOVLGHF-BUJBXKITSA-N","sys_name":"2,6E,10E-Trimethyl-2,6,10-dodecatriene"}
+JH3	{"input":"QVJMXSGZTCGLHZ-HONBPKQLSA-N"}
+D12	{"input":"SNRUBQQJIBEYMU-UHFFFAOYSA-N","sys_name":"dodecane"}
+FOH	{"input":"CRDAMVZIKSXKFV-FBXUGWQNSA-N","sys_name":"(2Z,6Z)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol"}
+WAD	{"input":"PAZZVPKITDJCPV-QGZVFWFLSA-N","sys_name":"10R-hydroxyoctadecanoic acid"}
+MLA	{"input":"OFOBLEOULBTSOW-UHFFFAOYSA-N","sys_name":"Propanedioic acid"}
+HTF	{"input":"JKEJEOJPJVRHMQ-JTQLQIEISA-N","sys_name":"N-octanoyl-homoserine lactone"}
+7NR	{"input":"RKHXDCVAPIMDMG-KRWDZBQOSA-N","sys_name":"9S-hydroxy-octadecanoic acid"}
+UNK	{"input":"QWCKQJZIFLGMSD-VKHMYHEASA-N","sys_name":"2S-amino-butanoic acid"}
+LTX	{"input":"GWNVDXQDILPJIG-NXOLIXFESA-N","sys_name":"5S-hydroxy-6R-(S-glutathionyl),7E,9E,11Z,14Z-eicosatetraenoic acid"}
+8IJ	{"input":"FQZQXPXKJFOAGE-KQKURGKFSA-N","sys_name":"1,2-dioctadecanoyl-sn-glycero-3-phospho-(1'-myo-inositol)"}
+DBB	{"input":"QWCKQJZIFLGMSD-GSVOUGTGSA-N","sys_name":"2R-amino-butanoic acid"}
+KMP	{"input":"IYRMWMYZSQPJKC-UHFFFAOYSA-N"}
+TUA	{"input":"OIGNJSKKLXVSLS-VWUMJDOOSA-N","sys_name":"11beta,17,21-trihydroxypregna-1,4-diene-3,20-dione"}
+NOG	{"input":"WWYNJERNGUHSAO-XUDSTZEESA-N","sys_name":"13-ethyl-17alpha-hydroxy-18,19-dinorpregn-4-en-20-yn-3-one"}
+C1F	{"input":"WMCQWXZMVIETAO-UHFFFAOYSA-N","sys_name":"3-carboxy-4-methyl-5-propyl-2-furanpropanoic acid"}
+3OL	{"input":"VSMOENVRRABVKN-QMMMGPOBSA-N","sys_name":"(3R)-oct-1-en-3-ol"}
+RAP	{"input":"QFJCIRLUMZQUOT-HPLJOQBZSA-N"}
+4AT	{"input":"MGTZCLMLSSAXLD-UHFFFAOYSA-N","sys_name":"5-oxo-hexanoic acid"}
+2KT	{"input":"TYEYBOSBBBHJIV-UHFFFAOYSA-N","sys_name":"2-oxo-butanoic acid"}
+ELX	{"input":"OJISWRZIEWCUBN-QIRCYJPOSA-N","sys_name":"3,7,11,15-tetramethylhexadeca-2E,6E,10E,14-tetraen-1-ol"}
+BUO	{"input":"QSJXEFYPDANLFS-UHFFFAOYSA-N","sys_name":"2,3-Butanedione"}
+RF8	{"input":"QQHJDPROMQRDLA-UHFFFAOYSA-N","sys_name":"Hexadecanedioic acid"}
+HEP	{"input":"FJQWWGCHPFSERW-CQSZACIVSA-N","sys_name":"4-({(1R)-1-[(R)-hydroxy(phenoxy)phosphoryl]pentyl}amino)-4-oxobutanoic acid"}
+TES	{"input":"MUMGGOZAMZWBJJ-DYKIIFRCSA-N","sys_name":"17beta-hydroxyandrost-4-en-3-one"}
+D7S	{"input":"SQTAVUCHOVVOFD-OBRBSRNPSA-N","sys_name":"(25S)-3-oxocholest-7-en-26-oic acid"}
+QSO	{"input":"WUADCCWRTIWANL-UHFFFAOYSA-N","sys_name":"5,7-Dihydroxy-4'-methoxyisoflavone"}
+HIU	{"input":"DBXBTMSZEOQQDU-GSVOUGTGSA-N","sys_name":"2R-methyl-3-hydroxy-propanoic acid"}
+07V	{"input":"ULDHMXUKGWMISQ-SECBINFHSA-N"}
+97I	{"input":"SHCBCKBYTHZQGZ-DLHMIPLTSA-N","sys_name":"(20R)-Dammar-24-ene-3\u03b2,6\u03b1,12\u03b2,20-tetrol"}
+H3T	{"input":"JWIOKCJPLNKYBQ-TWHRXLCVSA-N","sys_name":"1-hexadecanoyl-2-(9R, 11S-methylene-hexadecanoyl)-sn-glycero-3-phospho-(1'-sn-glycerol)"}
+TDA	{"input":"SZHOJFHSIKHZHA-UHFFFAOYSA-N","sys_name":"tridecanoic acid"}
+A6L	{"input":"RZRNAYUHWVFMIP-KTKRTIGZSA-N","sys_name":"1-(9Z-octadecenoyl)-rac-glycerol"}
+5HE	{"input":"FTAGQROYQYQRHF-CBVHGRPESA-N","sys_name":"5R-hydroxy-6E,8Z,11Z,14Z,17Z-eicosapentaenoic acid"}
+MIC	{"input":"HHKPKXCSHMJWCF-WVBDSBKLSA-N","sys_name":"(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylic acid"}
+OLA	{"input":"ZQPPMHVWECSIRJ-KTKRTIGZSA-N","sys_name":"9Z-octadecenoic acid"}
+KMT	{"input":"SXFSQZDSUWACKX-UHFFFAOYSA-N","sys_name":"2-oxo-4-methylthio-butanoic acid"}
+EO3	{"input":"UKMSUNONTOPOIO-UHFFFAOYSA-N","sys_name":"docosanoic acid"}
+KXN	{"input":"PFTAWBLQPZVEMU-DZGCQCFKSA-N"}
+BRC	{"input":"YYKBWYBUCFHYPR-UHFFFAOYSA-N","sys_name":"12-bromo-dodecanoic acid"}
+JAI	{"input":"IBZYPBGPOGJMBF-QRHMYKSGSA-N","sys_name":"N-({(1R,2R)-3-Oxo-2-[(2Z)-Pent-2-En-1-Yl]cyclopentyl}acetyl)-L-Isoleucine"}
+MIY	{"input":"DYKFCLLONBREIL-KVUCHLLUSA-N"}
+GMT	{"input":"COBMRTSHZAUOCY-BVKYVCSXSA-N","sys_name":"(2S)-2-[(2-acetamido-2-deoxy-alpha-D-glucopyranosyl)oxy]butanedioic acid"}
+ITY	{"input":"MGLDCXPLYOWQRP-UHFFFAOYSA-N","sys_name":"5,8,11,14-Eicosatetraynoic acid"}
+J8G	{"input":"JGUZGNYPMHHYRK-UHFFFAOYSA-N","sys_name":"3,5,3',4'-Tetrahydroxy-7-methoxyflavone"}
+IT9	{"input":"SEZLYIWMVRUIKT-SECBINFHSA-N"}
+MYU	{"input":"ZVOLCUVKHLEPEV-UHFFFAOYSA-N"}
+PRB	{"input":"SDSVJYOOAPRSDA-RPCQODIISA-N","sys_name":"(1aR,1bS,4aR,7aS,7bS,8R,9R,9aS)-4a,7b,9-trihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1,1a,1b,4,4a,5,7a,7b,8,9-decahydro-9aH-cyclopropa[3,4]benzo[1,2-e]azulen-9a-yl acetate"}
+HER	{"input":"BDZXSHDKBKYQKJ-UHFFFAOYSA-N"}
+2MC	{"input":"NPALUEYCDZWBOV-NDZSKPAWSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-{[3-({2-[(2-methylprop-2-enoyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-4-oxobutyl] dihydrogen diphosphate}"}
+3GT	{"input":"WKPWGQKGSOKKOO-RSFHAFMBSA-N"}
+KJX	{"input":"BQMSKLCEWBSPPY-IKVTXIKFSA-N","sys_name":"cholest-5-en-3beta,7alpha,25-triol"}
+5SD	{"input":"RAJWOBJTTGJROA-WZNAKSSCSA-N","sys_name":"5alpha-androstane-3,17-dione"}
+KMH	{"input":"FAASBXNEOGMQHS-BYPYZUCNSA-N","sys_name":"3-oxo-5S-amino-hexanoic acid"}
+NVA	{"input":"SNDPXSYFESPGGJ-BYPYZUCNSA-N","sys_name":"2S-amino-pentanoic acid"}
+ZFC	{"input":"KJIOQYGWTQBHNH-UHFFFAOYSA-N","sys_name":"Undecan-1-ol"}
+MK0	{"input":"BWDAWKXFHWFXEQ-RIEBCBCMSA-N","sys_name":"(4S,8S,12S,16S,20S-Pentamethylheptacosanyl)-beta-D-mannosyl phosphate"}
+VD2	{"input":"OZPNRDQPQFOURL-VJPYOZRWSA-N","sys_name":"(7E)-(1R,2S,3R)-2-methyl-19-nor-9,10-seco-5,7-cholestadiene-1,3,25-triol"}
+3QZ	{"input":"DBPWSSGDRRHUNT-CEGNMAFCSA-N","sys_name":"17-hydroxypregn-4-ene-3,20-dione"}
+EIC	{"input":"OYHQOLUKZRVURQ-HZJYTTRNSA-N","sys_name":"9Z,12Z-octadecadienoic acid"}
+GRG	{"input":"OINNEUNVOZHBOX-QIRCYJPOSA-N","sys_name":"3,7,11,15-tetramethyl-2Z,6Z,10Z,14-hexadecatetraen-1-ol diphosphate"}
+DM1	{"input":"STQGQHZAVUOBTE-VGBVRHCVSA-N"}
+ZER	{"input":"MBMQEIFVQACCCH-QBODLPLBSA-N"}
+QGD	{"input":"FQGGGDDJZMNTTN-AMAPPZPBSA-N","sys_name":"1-eicosyl-2-tetradecanoyl-glycero-3-phosphoserine"}
+ERD	{"input":"SBHXYTNGIZCORC-ZDUSSCGKSA-N"}
+HC9	{"input":"RZPAXNJLEKLXNO-GFKLAVDKSA-N","sys_name":"cholest-5-en-3beta,22R-diol"}
+KMC	{"input":"VCCRNZQBSJXYJD-UHFFFAOYSA-N","sys_name":"3,5,7-Trihydroxyflavone"}
+IVC	{"input":"UYVZIWWBJMYRCD-ZMHDXICWSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-{[3-({2-[(3-methylbutanoyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-4-oxobutyl] dihydrogen diphosphate}"}
+JDF	{"input":"OQPOFZJZPYRNFF-CULFPKEHSA-N"}
+13R	{"input":"JDSRHVWSAMTSSN-PIHGWCCBSA-N","sys_name":"13R-hydroperoxy-9Z,11E-octadecadienoic acid"}
+PTL	{"input":"HGBOYTHUEUWSSQ-UHFFFAOYSA-N","sys_name":"Pentanal"}
+SAK	{"input":"DJOJDHGQRNZXQQ-AWEZNQCLSA-N"}
+VPM	{"input":"BITYXLXUCSKTJS-ZETCQYMHSA-N","sys_name":"(2S)-2-isopropyl-2-hydroxy-butanedioic acid"}
+SDT	{"input":"YUHVBHDSVLKFNI-NJSLBKSFSA-N","sys_name":"3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione"}
+TF4	{"input":"JXTHNDFMNIQAHM-UHFFFAOYSA-N","sys_name":"2,2-dichloroacetic acid"}
+ELA	{"input":"ZQPPMHVWECSIRJ-MDZDMXLPSA-N","sys_name":"9E-octadecenoic acid"}
+LPA	{"input":"AGBQKNBQESQNJD-SSDOTTSWSA-N","sys_name":"1,2-dithiolane-3R-pentanoic acid"}
+RI5	{"input":"PIMZUZSSNYHVCU-YKWPQBAZSA-N"}
+Z0P	{"input":"IIEPDWHEGOSXLD-NMYQGLQJSA-N","sys_name":"1-hexadecanoyl-2-(11Z-octadecenoyl)-sn-glycerol"}
+PEK	{"input":"ANRKEHNWXKCXDB-BHFWLYLHSA-N","sys_name":"1-octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphoethanolamine"}
+DXX	{"input":"ZIYVHBGGAOATLY-UHFFFAOYSA-N","sys_name":"2-methyl-propanedioic acid"}
+PII	{"input":"QVAGJHIIXLLVCI-KSGPIMHQSA-N","sys_name":"1-hexadecanoyl-2-heptadecanoyl-glycero-3-phospho-(1'-myo-inositol)"}
+VCA	{"input":"UWHZIFQPPBDJPM-FPLPWBNLSA-N","sys_name":"11Z-octadecenoic acid"}
+DGX	{"input":"LTMHDMANZUZIPE-PUGKRICDSA-N","sys_name":"3beta,12beta,14-trihydroxy-5beta-card-20(22)-enolide 3-O-(tris-beta-D-digitoxoside)"}
+0L1	{"input":"WNLRTRBMVRJNCN-UHFFFAOYSA-N","sys_name":"Hexanedioic acid"}
+USE	{"input":"PLAPMLGJVGLZOV-VPRICQMDSA-N","sys_name":"8-beta-D-Glucopyranosyl-3',4',5,7-tetrahydroxyflavone"}
+AZE	{"input":"IDMGVRDNZFQORW-JWBAUCAFSA-N"}
+SNE	{"input":"NDVASEGYNIMXJL-UWVGGRQHSA-N","sys_name":"(1S,5S)-4-methylidene-1-(propan-2-yl)bicyclo[3.1.0]hexane (1S,5S)-thuj-4(10)-ene"}
+HXA	{"input":"MBMBGCFOFBJSGT-KUBAVDMBSA-N","sys_name":"4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoic acid"}
+1QQ	{"input":"JVQYSWDUAOAHFM-BYPYZUCNSA-N","sys_name":"3S-methyl-2-oxo-pentanoic acid"}
+HWP	{"input":"RWKUXQNLWDTSLO-GWQJGLRPSA-N","sys_name":"N-(hexadecanoyl)-sphing-4-enine-1-phosphocholine"}
+CPL	{"input":"JLPULHDHAOZNQI-ZTIMHPMXSA-N","sys_name":"1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphocholine"}
+6NA	{"input":"FUZZWVXGSFPDMH-UHFFFAOYSA-N","sys_name":"Hexanoic acid"}
+J8D	{"input":"MBNGWHIJMBWFHU-UHFFFAOYSA-N","sys_name":"5,7,3'-Trihydroxy-4'-methoxyflavone"}
+CHD	{"input":"BHQCQFFYRZLCQQ-OELDTZBJSA-N","sys_name":"3Alpha,7Alpha,12Alpha-trihydroxy-5Beta-cholan-24-oic acid"}
+IU5	{"input":"RUDATBOHQWOJDD-DNMBCGTGSA-N","sys_name":"3beta,7beta-Dihydroxy-5beta-cholan-24-oic Acid"}
+OCD	{"input":"FWWQKRXKHIRPJY-UHFFFAOYSA-N","sys_name":"octadecanal"}
+HC2	{"input":"MCKLJFJEQRYRQT-MGNSQDQZSA-N"}
+2NE	{"input":"YTKKDFTVSNSVEE-TYHXJLICSA-N","sys_name":"{[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[hydroxy({[hydroxy(3-hydroxy-2,2-dimethyl-3-{[2-({2-[(2-hydroxyphenyl)carbonylsulfanyl]ethyl}carbamoyl)ethyl]carbamoyl}propoxy)phosphoryl]oxy})phosphoryl]oxy}methyl)oxolan-3-yl]oxy}phosphonic acid"}
+CO6	{"input":"AEWHYWSPVRZHCT-NDZSKPAWSA-N","sys_name":"{[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[hydroxy({hydroxy[(3R)-3-hydroxy-2,2-dimethyl-3-{[2-({2-[(2-methylpropanoyl)sulfanyl]ethyl}carbamoyl)ethyl]carbamoyl}propoxy]phosphoryl}oxy)phosphoryl]oxy}methyl)oxolan-3-yl]oxy}phosphonic acid"}
+MRI	{"input":"YXOLAZRVSSWPPT-UHFFFAOYSA-N","sys_name":"3,5,7,2',4'-Pentahydroxyflavonol"}
+CLL	{"input":"NAACPBBQTFFYQB-LJAITQKLSA-N","sys_name":"cholest-5-en-3beta-yl (9Z,12Z-octadecadienoate)"}
+7A3	{"input":"ZMJBYMUCKBYSCP-CVYQJGLWSA-N","sys_name":"(1S,2S)-1,2-dihydroxypropane-1,2,3-tricarboxylic acid"}
+LAE	{"input":"FXCMGCFNLNFLSH-JTQLQIEISA-N","sys_name":"N-(3-oxo-octanoyl)-homoserine lactone"}
+CIZ	{"input":"HNEGQIOMVPPMNR-IHWYPQMZSA-N","sys_name":"2-methyl-2Z-butenedioic acid"}
+82R	{"input":"BQNMOLSYHYSCMS-TUUYSWIFSA-N","sys_name":"(25R)-5alpha-spirostan-3beta,12beta-diol "}
+VA	{"input":"QSZKEDWVAOAFQY-HJWRWDBZSA-N","sys_name":"11Z-Octadecenyl acetate"}
+ERY	{"input":"ULGZDMOVFRHVEP-RWJQBGPGSA-N"}
+VDY	{"input":"JWUBBDSIWDLEOM-DTOXIADCSA-N","sys_name":"(5Z,7E)-(3S)-9,10-seco-5,7,10(19)-cholestatriene-3,25-diol"}
+DCC	{"input":"YMCXGHLSVALICC-GMHMEAMDSA-N","sys_name":"Dodecanoyl-CoA"}
+E3G	{"input":"FJAZVHYPASAQKM-JBAURARKSA-N","sys_name":"3-hydroxy-estra-1,3,5(10)-trien-17-one 3-D-glucuronide"}
+H4X	{"input":"LCTIOHZQWXQPIB-VYCPWLLESA-N"}
+B81	{"input":"QADHLRWLCPCEKT-LOVVWNRFSA-N","sys_name":"androst-5-en-3beta,17beta-diol"}
+CY9	{"input":"SDZRWUKZFQQKKV-JHADDHBZSA-N"}
+SPR	{"input":"ACTOXUHEUCPTEW-CEUOBAOPSA-N"}
+SHO	{"input":"PHOJOSOUIAQEDH-UHFFFAOYSA-N","sys_name":"5-hydroxy-pentanoic acid"}
+MX7	{"input":"MHUWZNTUIIFHAS-DSSVUWSHSA-N","sys_name":"1,2-di-(9Z-octadecenoyl)-sn-glycero-3-phosphate"}
+P1A	{"input":"PJYYBCXMCWDUAZ-JJJZTNILSA-N","sys_name":"(22R)-2beta,3beta,14,20,22-pentahydroxy-5beta-cholest-7-en-6-one"}
+1VU	{"input":"QAQREVBBADEHPA-IEXPHMLFSA-N","sys_name":"3'-phosphoadenosine 5'-(3-{(3R)-3-hydroxy-2,2-dimethyl-4-oxo-4-[(3-oxo-3-{[2-(propanoylsulfanyl)ethyl]amino}propyl)amino]butyl} dihydrogen diphosphate)"}
+NS5	{"input":"NHKJSVKSSGKUCH-DBWJSHEJSA-N","sys_name":"(15Z)-1,2,7,8-Tetrahydro-psi,psi-carotene"}
+ACY	{"input":"QTBSBXVTEAMEQO-UHFFFAOYSA-N","sys_name":"ethanoic acid"}
+NKN	{"input":"FAZBDRGXCKPVJU-MRXNPFEDSA-N","sys_name":"1-tetradecanoyl-sn-glycero-3-phosphate"}
+DSL	{"input":"XBEJBEIXLWRYBT-DJNGBRKISA-N","sys_name":"3,7,11,15,19,23,27,31,35,39-decamethyltetraconta-2Z,6Z,10Z,14Z,18Z,22Z,26Z,30Z,34E,38-decaen-1-yl phosphate"}
+G9A	{"input":"XVOUMQNXTGKGMA-OWOJBTEDSA-N","sys_name":"2E-pentenedioic acid"}
+5RH	{"input":"GBOGMAARMMDZGR-TYHYBEHESA-N"}
+HTX	{"input":"CATSNJVOTSVZJV-UHFFFAOYSA-N","sys_name":"heptan-2-one"}
+HCC	{"input":"DXDRHHKMWQZJHT-FPYGCLRLSA-N"}
+U3G	{"input":"VFUVYNGTMNUBMF-ZRVIQYDLSA-N","sys_name":"1-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-2-(9Z-octadecenoyl)-glycero-3-phosphoethanolamine"}
+7PO	{"input":"XMHIUKTWLZUKEX-UHFFFAOYSA-N","sys_name":"hexacosanoic acid"}
+SQL	{"input":"YYGNTYWPHWGJRM-AAJYLUCBSA-N","sys_name":"Squalene"}
+PL3	{"input":"BXWNKGSJHAJOGX-UHFFFAOYSA-N","sys_name":"1-hexadecanol"}
+2OB	{"input":"RJECHNNFRHZQKU-RMUVNZEASA-N","sys_name":"cholest-5-en-3b-yl (9Z-octadecenoate)"}
+TG1	{"input":"IXFPJGBNCFXKPI-FSIHEZPISA-N"}
+LW9	{"input":"PSVQKOKKLWHNRP-UHFFFAOYSA-N","sys_name":"3-Ethylheptane"}
+2QI	{"input":"MBLYZRMZFUWLOZ-ZTIKAOTBSA-N","sys_name":"(5Z,7E)-(1S,3R)-1,3-dihydroxy-24-nor- 9,10-seco-5,7,10(19)-cholatrien-23-oic acid"}
+IVA	{"input":"GWYFCOCPABKNJV-UHFFFAOYSA-N","sys_name":"3-methyl-butanoic acid"}
+EP	{"input":"HESCAJZNRMSMJG-KKQRBIROSA-N"}
+3GB	{"input":"YWHNDSBMLSKIRV-MMYBRHQRSA-N","sys_name":"Galalpha1-4Galbeta1-4Glcbeta-Cer(d18:1\/26:0)"}
+CI2	{"input":"XMRPGKVKISIQBV-XWOJZHJZSA-N","sys_name":"5beta-pregnane-3,20-dione"}
+MCZ	{"input":"DTXXSJZBSTYZKE-ZDQKKZTESA-N","sys_name":"(5Z,7E)-(1S,3R)-22-oxa-9,10-seco-5,7,10(19)-cholestatriene-1,3,25-triol"}
+MML	{"input":"HFPZCAJZSCWRBC-UHFFFAOYSA-N"}
+UQC	{"input":"MFYSYFVPBJMHGN-ZPOLXVRWSA-N","sys_name":"17alpha,21-dihydroxypregn-4-ene-3,11,20-trione"}
+B7M	{"input":"OSFASEAZCNYZBW-SCFJQAPRSA-N","sys_name":"10E,12Z-Hexadecadienal"}
+FOF	{"input":"CRDAMVZIKSXKFV-YFVJMOTDSA-N","sys_name":"2E,6E-farnesol"}
+DFV	{"input":"FURUXTVZLHCCNA-AWEZNQCLSA-N"}
+4KX	{"input":"IHXBZDHPKCDGKN-TYHXJLICSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-4-{[3-({2-[(cyclohexa-1,5-diene-1-carbonyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-3-hydroxy-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}"}
+M9B	{"input":"OFHCOWSQAMBJIW-AVJTYSNKSA-N","sys_name":"(5Z,7E)-(1S,3R)-9,10-seco-5,7,10(19)-cholestatriene-1,3-diol"}
+ERG	{"input":"DNVPQKQSNYMLRS-APGDWVJJSA-N","sys_name":"ergosta-5,7,22E-trien-3beta-ol"}
+QSE	{"input":"FSQZIFSGNDUYRQ-TYKRLFMMSA-N","sys_name":"1'-Methoxy-1',2'-dihydro-chi,psi-caroten-4'-one"}
+XAT	{"input":"SZCBXWMUOPQSOX-WVJDLNGLSA-N"}
+03F	{"input":"MVGFIPNJBNBHNC-HVFXMTMESA-N","sys_name":"N-(9Z-octadecenoyl)-1-beta-glucosyl-sphing-4-enine"}
+8SU	{"input":"MYHXHCUNDDAEOZ-FOSBLDSVSA-N","sys_name":"9-oxo-15S-hydroxy-5Z,10Z,13E-prostatrienoic acid"}
+O8N	{"input":"CNNRPFQICPFDPO-UHFFFAOYSA-N","sys_name":"1-octacosanol"}
+FFA	{"input":"MUMGGOZAMZWBJJ-KZYORJDKSA-N","sys_name":"17alpha-hydroxyandrost-4-en-3-one"}
+SCG	{"input":"CSKKDSFETGLMSB-NRZPKYKESA-N"}
+H6P	{"input":"MDSIZRKJVDMQOQ-GORDUTHDSA-N","sys_name":"(2E)-4-hydroxy-3-methylbut-2-en-1-yl trihydrogen diphosphate"}
+PIT	{"input":"CDRPUGZCRXZLFL-OWOJBTEDSA-N"}
+OTC	{"input":"IWVCMVBTMGNXQD-PXOLEDIWSA-N"}
+ACO	{"input":"ZSLZBFCDCINBPY-ZSJPKINUSA-N","sys_name":"Acetyl-CoA"}
+UQ8	{"input":"ICFIZJQGJAJRSU-SGHXUWJISA-N"}
+4OA	{"input":"SMEROWZSTRWXGI-HVATVPOCSA-N","sys_name":"3alpha-Hydroxy-5beta-cholan-24-oic Acid"}
+LPY	{"input":"QGSQXOJTKFYHRK-FBYKMOGESA-N","sys_name":"1-tridecanoyl-sn-glycero-3-phospho-(1'-myo-inositol)"}
+17F	{"input":"WTBFLCSPLLEDEM-JIDRGYQWSA-N","sys_name":"1,2-di-(9Z-octadecenoyl)-sn-glycero-3-phosphoserine"}
+CLR	{"input":"HVYWMOMLDIMFJA-DPAQBDIFSA-N","sys_name":"cholest-5-en-3beta-ol"}
+ED9	{"input":"FZEXGDDBXLBRTD-AYIMTCTASA-N","sys_name":"(5Z,7E)-(1R,2R,3R)-2-(3-hydroxypropoxy)-9,10-seco-5,7,10(19)-cholestatriene-1,3,25-triol"}
+OXK	{"input":"QVXMZFTWJVBUHP-IBOSZNHHSA-N","sys_name":"3'-phosphoadenosine 5'-(3-{(3R)-3-hydroxy-2,2-dimethyl-4-[(3-{[2-(oxalylsulfanyl)ethyl]amino}-3-oxopropyl)amino]-4-oxobutyl} dihydrogen diphosphate)"}
+7N5	{"input":"XNIHZNNZJHYHLC-UHFFFAOYSA-N","sys_name":"2-oxo-hexanoic acid"}
+C7Z	{"input":"JKQXZKUSFCKOGQ-ANDPMPNWSA-N","sys_name":"(3S,3'S)-beta,beta-Carotene-3,3'-diol"}
+45D	{"input":"FDSDTBUPSURDBL-DKLMTRRASA-N"}
+O8Y	{"input":"JARKCYVAAOWBJS-UHFFFAOYSA-N","sys_name":"hexanal"}
+FFI	{"input":"NDDZLVOCGALPLR-GNSUAQHMSA-N","sys_name":"Docosanoyl-CoA"}
+GRA	{"input":"SYKWLIJQEHRDNH-CKRMAKSASA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-4-{[3-({2-[(4-carboxybutanoyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-3-hydroxy-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}"}
+DM2	{"input":"AOJJSUZBOXZQNB-TZSSRYMLSA-N"}
+BUN	{"input":"AYMYWHCQALZEGT-ORCRQEGFSA-N"}
+FOK	{"input":"OHCQJHSOBUTRHG-KGGHGJDLSA-N","sys_name":"(3R,4aR,5S,6S,6aS,10S,10aR,10bS)-3-ethenyl-6,10,10b-trihydroxy-3,4a,7,7,10a-pentamethyl-1-oxododecahydro-1H-benzo[f]chromen-5-yl acetate"}
+12H	{"input":"ZDHCZVWCTKTBRY-UHFFFAOYSA-N","sys_name":"12-hydroxy-dodecanoic acid"}
+CIS	{"input":"ZZQWQNAZXFNSEP-JCOQVFCVSA-N","sys_name":"N-(15Z-tetracosenoyl)-1-beta-(3'-sulfo)-glucosyl-sphing-4-enine"}
+VKV	{"input":"CUJUUWXZAQHCNC-DOFZRALJSA-N","sys_name":"2-O-(5Z,8Z,11Z,14Z-eicosatetraenyl)-sn-glycerol"}
+G50	{"input":"VGEREEWJJVICBM-UHFFFAOYSA-N"}
+4KW	{"input":"YTTZSBMCHSFQSJ-TYHXJLICSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-4-{[3-({2-[(cyclohex-1-ene-1-carbonyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-3-hydroxy-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}"}
+3HL	{"input":"WHBMMWSBFZVSSR-VKHMYHEASA-N","sys_name":"(3S)-3-hydroxybutanoic acid"}
+9OD	{"input":"INJRDZMWIAYEMM-VURMDHGXSA-N","sys_name":"9-oxo-2Z-decenoic acid"}
+FPP	{"input":"VWFJDQUYCIWHTN-YFVJMOTDSA-N","sys_name":"Farnesyl pyrophosphate"}
+57D	{"input":"RTIXKCRFFJGDFG-UHFFFAOYSA-N","sys_name":"5,7-Dihydroxyflavone"}
+Y3P	{"input":"UWYVPFMHMJIBHE-UPHRSURJSA-N","sys_name":"2-hydroxy-2-butenedioic acid"}
+LPM	{"input":"VLYUGYAKYZETRF-SSDOTTSWSA-N","sys_name":"(6R)-6,8-disulfanyloctanamide"}
+1T1	{"input":"SWOLRYFPKWBFHG-VGSCBBJJSA-N","sys_name":"O-octadecanoyl-adenosine monophosphate"}
+MW9	{"input":"ZEFGRNLJASLRBZ-QIJYXWHJSA-N","sys_name":"1-octadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol)"}
+YUV	{"input":"WQLVFSAGQJTQCK-VKROHFNGSA-N","sys_name":"(25R)-spirost-5-en-3beta-diol"}
+ANO	{"input":"RAJWOBJTTGJROA-QJISAEMRSA-N","sys_name":"5beta-androstane-3,17-dione"}
+QSR	{"input":"TWHQNHQPSCPQNY-WVRHUKEESA-N","sys_name":"1',3'-Bis-[1,2-di-(9Z-octadecenoyl)-sn-glycero-3-phospho]-sn-glycerol"}
+U20	{"input":"TZSJGZGYQDNRRX-MPLCHSTDSA-N","sys_name":"UDP-3-(3R-hydroxy-tetradecanoyl)-N-acetyl-alphaD-glucosamine"}
+JDO	{"input":"RPYRMTHVSUWHSV-CUZJHZIBSA-N"}
+EW8	{"input":"ISYWECDDZWTKFF-UHFFFAOYSA-N","sys_name":"nonadecanoic acid"}
+IRH	{"input":"IZQSVPBOUDKVDZ-UHFFFAOYSA-N"}
+EQI	{"input":"WKRLQDKEXYKHJB-HFTRVMKXSA-N","sys_name":"3-hydroxy-estra-1,3,5(10),7tetraen-17-one"}
+TCI	{"input":"CYQFCXCEBYINGO-IAGOWNOFSA-N","sys_name":"(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-ol"}
+C0R	{"input":"OMFXVFTZEKFJBZ-HJTSIMOOSA-N","sys_name":"11beta,21-dihydroxypregn-4-ene-3,20-dione"}
+O1C	{"input":"QOVWEUHJARWCDV-RQSRSJTKSA-N","sys_name":"(5Z,7E)-(1S,2S,3R)-2-(3-hydroxy-propyl)-9,10-seco-5,7,10(19)-cholestatrien-1,3,25-triol"}
+D39	{"input":"OIWCYIUQAVBPGV-DAQGAKHBSA-N","sys_name":"1-hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphoserine"}
+STR	{"input":"RJKFOVLPORLFTN-LEKSSAKUSA-N","sys_name":"pregn-4-ene-3,20-dione"}
+CHO	{"input":"GHCZAUBVMUEKKP-GYPHWSFCSA-N","sys_name":"N-(3alpha,7alpha-dihydroxy-5beta-cholan-24-oyl)-glycine"}
+D2V	{"input":"MECHNRXZTMCUDQ-RKHKHRCZSA-N","sys_name":"(5Z,7E,22E)-(3S)-9,10-seco-5,7,10(19),22-ergostatetraen-3-ol"}
+0GV	{"input":"YIKKMWSQVKJCOP-ABXCMAEBSA-N","sys_name":"7-oxo-cholest-5-en-3beta-ol"}
+KML	{"input":"URFCJEUYXNAHFI-ZDUSSCGKSA-N"}
+E7Y	{"input":"LGEQQWMQCRIYKG-DOFZRALJSA-N","sys_name":"N-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-ethanolamine"}
+OTP	{"input":"IKKLDISSULFFQO-DJMILUHSSA-N"}
+OA9	{"input":"LVBVWNJPMXCQJE-CBBDEUQJSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-4-({3-[(2-{[(2E)-3-carboxy-2-methylprop-2-enoyl]sulfanyl}ethyl)amino]-3-oxopropyl}amino)-3-hydroxy-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}"}
+NS0	{"input":"NHKJSVKSSGKUCH-XILUKMICSA-N"}
+3EV	{"input":"GMRQFYUYWCNGIN-GNVXBELXSA-N","sys_name":"(5Z,7E)-(1S,3S)-9,10-seco-5,7,10(19)-cholestatriene-1,3,25-triol"}
+T8N	{"input":"MRNZYUAGJLJQAM-DUXPYHPUSA-N","sys_name":"(2E)-2-(2-methoxy-2-oxoethyl)but-2-enedioic acid"}
+PLO	{"input":"ORNBQBCIOKFOEO-QGVNFLHTSA-N","sys_name":"3beta-hydroxypregn-5-en-20-one"}
+OFN	{"input":"FYBVHNZJDVUVLJ-IBYUJNRCSA-N","sys_name":"3-oxoeicosanoyl-CoA"}
+PGW	{"input":"PAZGBAOHGQRCBP-HGWHEPCSSA-N","sys_name":"1-hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phospho-(1'-sn-glycerol)"}
+CCQ	{"input":"BBRISSLDTUHWKG-PVMHLSDZSA-N","sys_name":"2R-hydroxy-4-trimethylammonio-butanoyl-CoA"}
+9Y0	{"input":"DVXMEPWDARXHCX-OTMQOFQLSA-N","sys_name":"1-(9Z-octadecenoyl)-2-hexadecanoyl-sn-glycero-3-phosphoethanolamine"}
+64Z	{"input":"GLZPCOQZEFWAFX-JXMROGBWSA-N","sys_name":"2E-geraniol"}
+3VV	{"input":"XDUHQPOXLUAVEE-BPMMELMSSA-N","sys_name":"9Z-octadecenoyl-CoA"}
+E7F	{"input":"VZBPTZZTCBNBOZ-VJXVFPJBSA-N","sys_name":"1-(3-beta-D-Glucopyranosyl-2,4,6-trihydroxyphenyl)-3-(4-hydroxyphenyl)-1-propanone"}
+OOA	{"input":"FWNRRWJFOZIGQZ-UHFFFAOYSA-N","sys_name":"3-oxo-octanoic acid"}
+3WF	{"input":"BFPYWIDHMRZLRN-SLHNCBLASA-N","sys_name":"17alpha-ethinyl-estra-1,3,5(10)-triene-3,17beta-diol"}
+GEN	{"input":"TZBJGXHYKVUXJN-UHFFFAOYSA-N"}
+NLE	{"input":"LRQKBLKVPFOOQJ-YFKPBYRVSA-N","sys_name":"2S-amino-hexanoic acid"}
+VSD	{"input":"KBUNOSOGGAARKZ-KRWDZBQOSA-N","sys_name":"3-dehydrosphinganine"}
+8YP	{"input":"KSMVZQYAVGTKIV-UHFFFAOYSA-N","sys_name":"decanal"}
+24G	{"input":"ZFPNNOXCEDQJQS-SSVOXRMNSA-N","sys_name":"UDP-3-(3R-hydroxy-tetradecanoyl)-alphaD-glucosamine"}
+QT8	{"input":"FHSUFDYFOHSYHI-UHFFFAOYSA-N","sys_name":"3-oxo-pentanoic acid"}
+RET	{"input":"NCYCYZXNIZJOKI-OVSJKPMPSA-N","sys_name":"Retinal"}
+C3S	{"input":"BHYOQNUELFTYRT-DPAQBDIFSA-N","sys_name":"cholest-5-en-3beta-yl hydrogen sulfate"}
+6JI	{"input":"ATLJNLYIJOCWJE-CWMZOUAVSA-N","sys_name":"3beta-hydroxy-14beta,15beta-epoxy-5beta-bufa-20,22-dienolide"}
+HMO	{"input":"LNIQZRIHAMVRJA-UHFFFAOYSA-N"}
+81K	{"input":"QFPVVMKZTVQDTL-FPLPWBNLSA-N","sys_name":"9Z-Hexadecenal"}
+9CR	{"input":"SHGAZHPCJJPHSC-ZVCIMWCZSA-N"}
+EB1	{"input":"LVLLALCJVJNGQQ-SEODYNFXSA-N","sys_name":"(5Z,7E,22E,24E)-(1S,3R)-26,27-dimethyl-24a-homo-9,10-seco-5,7,10(19),22,24-cholestapentaene-1,3,25-triol"}
+CTC	{"input":"CYDMQBQPVICBEU-XRNKAMNCSA-N"}
+OHA	{"input":"VBFPQNKLKQDSCH-UHFFFAOYSA-N","sys_name":"10-oxo-hexadecanoic acid"}
+I3U	{"input":"VUXMGAKZQBQIAH-UHFFFAOYSA-N","sys_name":"4-[(5-aminopentyl)(hydroxy)amino]-4-oxobutanoic acid"}
+6SB	{"input":"AWDRATDZQPNJFN-VAYUFCLWSA-N","sys_name":"N-(3alpha,12alpha-dihydroxy-5beta-cholan-24-oyl)-taurine"}
+JN3	{"input":"RUDATBOHQWOJDD-BSWAIDMHSA-N","sys_name":"3alpha,7alpha-Dihydroxy-5beta-cholan-24-oic Acid"}
+1EY	{"input":"ZTJGMVSDMQAJPE-OUPQRBNQSA-N","sys_name":"11Z,13Z-Hexadecadienal"}
+DLP	{"input":"FVXDQWZBHIXIEJ-LNDKUQBDSA-N","sys_name":"1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphocholine"}
+ZOZ	{"input":"AZCVXMAPLHSIKY-HSJNEKGZSA-N","sys_name":"3'-phosphoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-oxo-4-{[3-oxo-3-({2-[(3-oxodecanoyl)sulfanyl]ethyl}amino)propyl]amino}butyl] dihydrogen diphosphate}"}
+EMJ	{"input":"IRSFLDGTOHBADP-UHFFFAOYSA-N","sys_name":"2,5-dihydroxy-3-undecyl-1,4-benzoquinone"}
+BUF	{"input":"QEEBRPGZBVVINN-BMPKRDENSA-N","sys_name":"3beta,14beta-dihydroxy-5beta-bufa-20,22-dienolide"}
+RPG	{"input":"BGKHCLZFGPIKKU-LDDQNKHRSA-N","sys_name":"9-oxo-15S-hydroxy-10Z,13E-prostadienoic acid"}
+HHF	{"input":"UWQJWDYDYIJWKY-UHFFFAOYSA-N","sys_name":"3,7-Dihydroxyflavone"}
+MQE	{"input":"YYDMANIEKFAEJC-RYZSZPJESA-N","sys_name":"2-methyl-3-[(2E,6E,10E,14E,18E,22E,26E,30E,34E,38E)-3,7,11,15,19,23,27,31,35,39,43-undecamethyltetratetraconta-2,6,10,14,18,22,26,30,34,38,42-undecaenyl]naphthalene-1,4-dione"}
+6B5	{"input":"RRRSSAVLTCVNIQ-UHFFFAOYSA-N","sys_name":"5,3',4'-Trihydroxy-7-methoxyflavone"}
+ZE0	{"input":"SBVLKWMQRFTYPE-WRNKADOOSA-N","sys_name":"3',4'-Didehydro-1,2-dihydro-psi,psi-caroten-1-ol"}
+08O	{"input":"DPUOLQHDNGRHBS-KTKRTIGZSA-N","sys_name":"13Z-docosenoic acid"}
+3HR	{"input":"WHBMMWSBFZVSSR-GSVOUGTGSA-N","sys_name":"3R-hydroxy-butanoic acid"}
+3OM	{"input":"VSMOENVRRABVKN-MRVPVSSYSA-N","sys_name":"oct-1-en-3S-ol"}
+R3W	{"input":"FOCAUTSVDIKZOP-UHFFFAOYSA-N","sys_name":"2-chloro-ethanoic acid"}
+PNH	{"input":"XNLICIUVMPYHGG-UHFFFAOYSA-N","sys_name":"pentan-2-one"}
+HWB	{"input":"VEVZSMAEJFVWIL-UHFFFAOYSA-O"}
+PTY	{"input":"NJGIRBISCGPRPF-KXQOOQHDSA-N","sys_name":"1-pentadecanoyl-2-eicosanoyl-glycero-3-phosphoethanolamine"}
+3HO	{"input":"NDPLAKGOSZHTPH-ZETCQYMHSA-N","sys_name":"3S-hydroxyoctanoic acid"}
+NDR	{"input":"VIKNJXKGJWUCNN-XGXHKTLJSA-N","sys_name":"17alpha-hydroxy-19-norpregn-4-en-20-yn-3-one"}
+RXY	{"input":"RAMNOXDFBNFSFC-AVWHJSSGSA-N","sys_name":"1-(9Z-hexadecenoyl)-2-(9Z-octadecenoyl)-glycero-3-phosphoethanolamine"}
+BZV	{"input":"QZZGJDVWLFXDLK-UHFFFAOYSA-N","sys_name":"Tetracosanoic acid"}
+SL0	{"input":"SXOZSDJHGMAEGZ-IGKKHSBFSA-N"}
+DTX	{"input":"XZTUSOXSLKTKJQ-CESUGQOBSA-N","sys_name":"3-beta,14beta-dihydroxy-5-beta-card-20(22)-enolide"}
+1PW	{"input":"HWPZKJVGDYNEAW-QUDYQQOWSA-N","sys_name":"N-(acetyl)-sphing-4-enine-1-phosphate"}
+LZZ	{"input":"JERGUCIJOXJXHF-TVWVXWENSA-N","sys_name":"3beta,17alpha-dihydroxypregn-5-en-20-one"}
+WNZ	{"input":"ZLGYVWRJIZPQMM-HHHXNRCGSA-N","sys_name":"1,2-didodecanoyl-sn-glycero-3-phosphoethanolamine"}
+XPZ	{"input":"BAHIJPSQSKWCJX-QHCPKHFHSA-N","sys_name":"N-hexadecanoyl-phenylalanine"}
+HE2	{"input":"ZSIAUFGUXNUGDI-UHFFFAOYSA-N","sys_name":"Hexan-1-ol"}
+8PG	{"input":"BGKHCLZFGPIKKU-DRSVPBQLSA-N","sys_name":"9-oxo-15S-hydroxy-10Z,13E-prostadienoic acid-cyclo[8S,12S]"}
+U10	{"input":"ACTIUHUUMQJHFO-UPTCCGCDSA-N"}
+3PH	{"input":"YFWHNAWEOZTIPI-DIPNUNPCSA-N","sys_name":"1,2-dioctadecanoyl-sn-glycero-3-phosphate"}
+ZP7	{"input":"QHZLMUACJMDIAE-SFHVURJKSA-N","sys_name":"1-hexadecanoyl-sn-glycerol"}
+CAH	{"input":"DJQYBVLXBVJHMU-PJKMHFRUSA-N","sys_name":"(1R,4R,5R)-5-hydroxy-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one"}
+69O	{"input":"KDVFRMMRZOCFLS-UHFFFAOYSA-N","sys_name":"2-oxo-pentanoic acid"}
+LIM	{"input":"CJTNJZWHYGHVCD-UHFFFAOYSA-N","sys_name":"3-oxo-pentadecanoic acid"}
+MYF	{"input":"ARSRJFRKVXALTF-UHFFFAOYSA-N","sys_name":"5,7,3',4',5'-Pentahydroxyflavone"}
+DJ3	{"input":"UFPQIRYSPUYQHK-WAQVJNLQSA-N","sys_name":"5S,6S-epoxy-7E,9E,11Z,14Z-eicosatetraenoic acid"}
+13S	{"input":"JDSRHVWSAMTSSN-IRQZEAMPSA-N","sys_name":"13S-hydroperoxy-9Z,11E-octadecadienoic acid"}
+II0	{"input":"DVICWXUADSCSLL-DDEWRDOISA-N","sys_name":"(3R,3'R)-7,8,7',8'-Tetradehydro-beta,beta-carotene-3,3'-diol"}
+DOA	{"input":"PBLZLIFKVPJDCO-UHFFFAOYSA-N","sys_name":"12-amino-dodecanoic acid"}
+JC6	{"input":"OMHUCGDTACNQEX-OSHKXICASA-N","sys_name":"13-[(2-O-beta-D-glucopyranosyl-beta-D-glucopyranosyl)oxy]-kaur-16-en-18-oic acid"}
+NAR	{"input":"FTVWIRXFELQLPI-ZDUSSCGKSA-N"}
+UOC	{"input":"KYWIYKKSMDLRDC-UHFFFAOYSA-N","sys_name":"undecan-2-one"}
+SJA	{"input":"HMTAHNDPLDKYJT-CBBWQLFWSA-N","sys_name":"(1R,4R,4aS,8aR)-4,7-dimethyl-1-(prop-1-en-2-yl)-1,2,3,4,4a,5,6,8a-octahydronaphthalene"}
+44E	{"input":"SFZZRGHNPILUOD-CYBMUJFWSA-N","sys_name":"1,2-dihexanoyl-sn-glycero-3-phosphate"}
+DEB	{"input":"HQZOLNNEQAKEHT-IBBGRPSASA-N"}
+HCD	{"input":"MCKLJFJEQRYRQT-APGJSSKUSA-N","sys_name":"cholest-5-en-3beta,20S-diol"}
+H9L	{"input":"ONFOSYPQQXJWGS-UHFFFAOYSA-N","sys_name":"2-hydroxy-4-(methylsulfanyl)butanoic acid"}
+CUE	{"input":"ZZIALNLLNHEQPJ-UHFFFAOYSA-N","sys_name":"3,9-Dihydroxycoumestan"}
+ESL	{"input":"PROQIPRRNZUXQM-ZXXIGWHRSA-N","sys_name":"estra-1,3,5(10)-triene-3,16,17-triol"}
+Y7R	{"input":"ZGIGZINMAOQWLX-NCZFFCEISA-N","sys_name":"3,7,11-Trimethyl-2,6,10-dodecatrienyl acetate"}
+EWM	{"input":"WILLZMOKUUPJSL-AWEZNQCLSA-N","sys_name":"N-(dodecanoyl)-homoserine lactone"}
